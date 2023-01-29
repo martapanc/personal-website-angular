@@ -14,12 +14,14 @@ import {
 })
 export class SidebarComponent {
   icons = {
-    faInstagram,
-    faLinkedin,
     faGithub,
     faGoodreads,
+    faInstagram,
+    faLinkedin,
     faSteam,
   };
 
-  toggleMobileSidebar() {}
+  toggleMobileSidebar() {
+    console.log('To do');
+  }
 }
