@@ -1,4 +1,10 @@
-<a class="nav-link" href="/">
-    <fa-icon [icon]="icon"></fa-icon>
-    {{title}}
-</a>
+<li class="nav-item">
+    <a class="nav-link d-flex flex-row" href="/">
+        <div class="menu-item-icon">
+            <fa-icon [icon]="icon"></fa-icon>
+        </div>
+        <div>
+            {{title}}
+        </div>
+    </a>
+</li>

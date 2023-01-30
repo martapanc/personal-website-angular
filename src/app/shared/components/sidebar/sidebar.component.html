@@ -28,17 +28,23 @@
                     <h5 class="mb-0" id="user-title">Software Engineer</h5>
                 </div>
 
-                <ul class="social-list list-inline py-3 mx-auto">
-                    <li class="list-inline-item" *ngFor="let link of socialMediaLinks">
-                        <app-social-media-link [icon]="link.icon" [url]="link.url"></app-social-media-link>
-                    </li>
+                <!-- Social Media links -->
+                <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
+                    <app-social-media-link class="list-inline-item"
+                        *ngFor="let link of socialMediaLinks"
+                        [icon]="link.icon"
+                        [url]="link.url">
+                    </app-social-media-link>
                 </ul>
             </div>
 
-            <ul class="navbar-nav flex-column text-left">
-                <li class="nav-item" *ngFor="let item of menuItems">
-                    <app-menu-item [icon]="item.icon" [title]="item.title"></app-menu-item>
-                </li>
+            <!-- Menu items -->
+            <ul class="navbar-nav flex-column text-start">
+                <app-menu-item
+                    *ngFor="let item of menuItems"
+                    [icon]="item.icon"
+                    [title]="item.title">
+                </app-menu-item>
             </ul>
         </div>
     </nav>
