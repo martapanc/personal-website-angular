@@ -17,12 +17,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div id="navigation" class="collapse navbar-collapse flex-column">
+        <div id="navigation" class="collapse navbar-collapse d-flex flex-column">
             <div class="profile-section pt-3 pt-lg-0">
                 <img
                     class="profile-image mb-3 rounded-circle mx-auto"
                     src="./assets/images/profile.webp"
-                    alt="avatar"/>
+                    alt="avatar"
+                />
 
                 <div class="bio mb-3">
                     <h5 class="mb-0" id="user-title">Software Engineer</h5>
@@ -31,21 +32,34 @@
                 <!-- Social Media links -->
                 <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
                     <app-social-media-link class="list-inline-item"
-                        *ngFor="let link of socialMediaLinks"
-                        [icon]="link.icon"
-                        [url]="link.url">
+                                           *ngFor="let link of socialMediaLinks"
+                                           [icon]="link.icon"
+                                           [url]="link.url">
                     </app-social-media-link>
                 </ul>
             </div>
 
             <!-- Menu items -->
-            <ul class="navbar-nav flex-column text-start">
-                <app-menu-item
-                    *ngFor="let item of menuItems"
-                    [icon]="item.icon"
-                    [title]="item.title">
-                </app-menu-item>
-            </ul>
+            <div class="mb-3">
+                <ul class="navbar-nav flex-column text-start">
+                    <app-menu-item
+                        *ngFor="let item of menuItems"
+                        [icon]="item.icon"
+                        [title]="item.title">
+                    </app-menu-item>
+                </ul>
+            </div>
+
+            <div class="my-2 my-md-3">
+                <a
+                    class="btn btn-primary"
+                    href="mailto:mpancaldi@outlook.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Get in Touch
+                </a>
+            </div>
         </div>
     </nav>
 </div>
