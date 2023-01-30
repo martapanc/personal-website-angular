@@ -8,9 +8,9 @@
 // Be sure that you only ever include this mixin once!
 @include mat.core();
 
-@import "src/app/shared/assets/css/main";
-@import "src/app/shared/assets/css/base";
-@import "src/app/shared/assets/css/responsive";
+@import 'src/app/shared/styles/main';
+@import 'src/app/shared/styles/base';
+@import 'src/app/shared/styles/responsive';
 
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
@@ -23,13 +23,15 @@ $mpancaldi-warn: mat.define-palette(mat.$red-palette);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
-$mpancaldi-theme: mat.define-light-theme((
-  color: (
-    primary: $mpancaldi-primary,
-    accent: $mpancaldi-accent,
-    warn: $mpancaldi-warn,
-  )
-));
+$mpancaldi-theme: mat.define-light-theme(
+    (
+        color: (
+            primary: $mpancaldi-primary,
+            accent: $mpancaldi-accent,
+            warn: $mpancaldi-warn,
+        ),
+    )
+);
 
 // Include theme styles for core and each component used in your app.
 // Alternatively, you can import and @include the theme mixins for each component
@@ -38,11 +40,12 @@ $mpancaldi-theme: mat.define-light-theme((
 
 /* You can add global styles to this file, and also import other style files */
 
-html, body {
-  height: 100%;
+html,
+body {
+    height: 100%;
 }
 
 body {
-  margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
+    margin: 0;
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
 }

@@ -7,16 +7,16 @@ import { FoodComponent } from './core/food/food.component';
 import { TravelComponent } from './core/travel/travel.component';
 
 const routes: Routes = [
-  { path: '', component: HomeComponent },
-  { path: 'home', component: HomeComponent },
-  { path: 'cv', component: CvComponent },
-  { path: 'projects', component: ProjectsComponent },
-  { path: 'travel', component: TravelComponent },
-  { path: 'food', component: FoodComponent },
+    { path: '', component: HomeComponent },
+    { path: 'home', component: HomeComponent },
+    { path: 'cv', component: CvComponent },
+    { path: 'projects', component: ProjectsComponent },
+    { path: 'travel', component: TravelComponent },
+    { path: 'food', component: FoodComponent },
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule],
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule],
 })
 export class AppRoutingModule {}

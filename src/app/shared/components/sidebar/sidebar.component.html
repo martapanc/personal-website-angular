@@ -1,84 +1,76 @@
 <div class="header text-center">
-  <h1 class="blog-name pt-lg-4 mb-0">
-    <a href="/">&lt;Marta Pancaldi /&gt;</a>
-  </h1>
+    <h1 class="blog-name pt-lg-4 mb-0">
+        <a href="/">&lt;Marta Pancaldi /&gt;</a>
+    </h1>
 
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <button
-      id="navbar-toggler"
-      class="navbar-toggler"
-      type="button"
-      data-toggle="collapse"
-      data-target="#navigation"
-      aria-controls="navigation"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-      (click)="toggleMobileSidebar()"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <button
+            id="navbar-toggler"
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navigation"
+            aria-controls="navigation"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            (click)="toggleMobileSidebar()">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <div id="navigation" class="collapse navbar-collapse flex-column">
-      <div class="profile-section pt-3 pt-lg-0">
-        <img class="profile-image mb-3 rounded-circle mx-auto"
-             src="./assets/images/profile.webp" alt="avatar"
-        />
+        <div id="navigation" class="collapse navbar-collapse flex-column">
+            <div class="profile-section pt-3 pt-lg-0">
+                <img
+                    class="profile-image mb-3 rounded-circle mx-auto"
+                    src="./assets/images/profile.webp"
+                    alt="avatar" />
 
-        <div class="bio mb-3">
-          <h5 class="mb-0" id="user-title">
-            Software Engineer
-          </h5>
+                <div class="bio mb-3">
+                    <h5 class="mb-0" id="user-title">Software Engineer</h5>
+                </div>
+
+                <ul class="social-list list-inline py-3 mx-auto">
+                    <li class="list-inline-item">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://www.linkedin.com/in/martapancaldi/">
+                            <fa-icon [icon]="icons.faLinkedin"></fa-icon>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://github.com/martapanc">
+                            <fa-icon [icon]="icons.faGithub"></fa-icon>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://www.instagram.com/pancakemarta/">
+                            <fa-icon [icon]="icons.faInstagram"></fa-icon>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://www.goodreads.com/topolinamarta">
+                            <fa-icon [icon]="icons.faGoodreads"></fa-icon>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://steamcommunity.com/id/martap/">
+                            <fa-icon [icon]="icons.faSteam"></fa-icon>
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
-
-        <ul class="social-list list-inline py-3 mx-auto">
-          <li class="list-inline-item">
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/martapancaldi/"
-            >
-              <fa-icon [icon]="icons.faLinkedin"></fa-icon>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://github.com/martapanc"
-            >
-              <fa-icon [icon]="icons.faGithub"></fa-icon>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.instagram.com/pancakemarta/"
-            >
-              <fa-icon [icon]="icons.faInstagram"></fa-icon>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.goodreads.com/topolinamarta"
-            >
-              <fa-icon [icon]="icons.faGoodreads"></fa-icon>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://steamcommunity.com/id/martap/"
-            >
-              <fa-icon [icon]="icons.faSteam"></fa-icon>
-            </a>
-          </li>
-        </ul>
-
-      </div>
-    </div>
-  </nav>
+    </nav>
 </div>
