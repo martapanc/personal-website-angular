@@ -1,0 +1,16 @@
+{
+    "i18n": {
+        "sidebar": {
+            "jobTitle": "Software Engineer",
+            "contactMe": "Get in Touch",
+            "menu": {
+                "about": "About me",
+                "cv": "CV",
+                "projects": "Projects",
+                "travel": "Travel Pictures",
+                "food": "Food Pictures"
+            }
+        }
+    }
+}
+

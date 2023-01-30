@@ -12,7 +12,18 @@
 
 .collapse {
     display: none;
+
     &.show {
         display: block;
     }
+}
+
+.language-change-area {
+    position: absolute;
+    bottom: 20px;
+}
+
+.flag-icon {
+    width: 35px;
+    border-radius: 5px;
 }

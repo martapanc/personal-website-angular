@@ -3,7 +3,7 @@
         <a href="/">&lt;Marta Pancaldi /&gt;</a>
     </h1>
 
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark flex-lg-column justify-content-between">
         <button
             id="navbar-toggler"
             #navbarTogglerButton
@@ -19,48 +19,59 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div id="navigation" #navbar [ngClass]="{'show': isNavbarExpanded}" class="collapse navbar-collapse flex-column">
-            <div class="profile-section pt-3 pt-lg-0">
-                <img
-                    class="profile-image mb-3 rounded-circle mx-auto"
-                    src="./assets/images/profile.webp"
-                    alt="avatar"
-                />
+        <div id="navigation" #navbar [ngClass]="{'show': isNavbarExpanded}"
+             class="collapse navbar-collapse flex-column">
 
-                <div class="bio mb-3">
-                    <h5 class="mb-0" id="user-title">Software Engineer</h5>
+                <div class="profile-section pt-3 pt-lg-0">
+                    <img
+                        class="profile-image mb-3 rounded-circle mx-auto"
+                        src="./assets/images/profile.webp"
+                        alt="avatar"
+                    />
+
+                    <div class="bio mb-3">
+                        <h5 class="mb-0" id="user-title">{{ "i18n.sidebar.jobTitle" | translate }}</h5>
+                    </div>
+
+                    <!-- Social Media links -->
+                    <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
+                        <app-social-media-link class="list-inline-item"
+                                               *ngFor="let link of socialMediaLinks"
+                                               [socialMediaLink]="link">
+                        </app-social-media-link>
+                    </ul>
                 </div>
 
-                <!-- Social Media links -->
-                <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
-                    <app-social-media-link class="list-inline-item"
-                                           *ngFor="let link of socialMediaLinks"
-                                           [socialMediaLink]="link">
-                    </app-social-media-link>
-                </ul>
-            </div>
+                <!-- Menu items -->
+                <div class="mb-3">
+                    <ul class="navbar-nav flex-column text-start">
+                        <app-menu-item
+                            *ngFor="let item of menuItems"
+                            [menuItem]="item"
+                        >
+                        </app-menu-item>
+                    </ul>
+                </div>
 
-            <!-- Menu items -->
-            <div class="mb-3">
-                <ul class="navbar-nav flex-column text-start">
-                    <app-menu-item
-                        *ngFor="let item of menuItems"
-                        [menuItem]="item"
+                <div class="my-2 my-md-3">
+                    <a
+                        class="btn btn-primary"
+                        href="mailto:mpancaldi@outlook.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
                     >
-                    </app-menu-item>
-                </ul>
+                        {{ "i18n.sidebar.contactMe" | translate }}
+                    </a>
+                </div>
             </div>
 
-            <div class="my-2 my-md-3">
-                <a
-                    class="btn btn-primary"
-                    href="mailto:mpancaldi@outlook.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Get in Touch
-                </a>
+            <div class="d-none d-lg-flex px-3 w-100 flex-row justify-content-end">
+                <div class="mx-2" (click)="changeLanguage('it')">
+                    <img class="flag-icon mb-3 mx-auto" src="./assets/images/flags/it.svg" alt="Italian">
+                </div>
+                <div class="mx-2" (click)="changeLanguage('en')">
+                    <img class="flag-icon mb-3 mx-auto" src="./assets/images/flags/uk.svg" alt="English">
+                </div>
             </div>
-        </div>
     </nav>
 </div>
