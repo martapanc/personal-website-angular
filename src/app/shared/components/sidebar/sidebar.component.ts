@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 import {
     faGithub,
     faGoodreads,
@@ -20,6 +20,11 @@ import {
     styleUrls: ['./sidebar.component.scss'],
 })
 export class SidebarComponent {
+    @ViewChild('navbarTogglerButton') navbarTogglerButton!: ElementRef;
+    @ViewChild('navbar') navbar!: ElementRef;
+
+    isNavbarExpanded = false;
+
     socialMediaLinks = [
         { icon: faLinkedin, url: 'https://www.linkedin.com/in/martapancaldi/' },
         { icon: faGithub, url: 'https://github.com/martapanc/' },
@@ -37,6 +42,10 @@ export class SidebarComponent {
     ];
 
     toggleMobileSidebar() {
-        console.log('To do');
+        this.isNavbarExpanded = !this.isNavbarExpanded;
+        this.navbarTogglerButton.nativeElement.setAttribute(
+            'aria-expanded',
+            this.isNavbarExpanded.toString()
+        );
     }
 }

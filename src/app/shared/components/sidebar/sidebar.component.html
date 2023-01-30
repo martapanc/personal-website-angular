@@ -6,6 +6,8 @@
     <nav class="navbar navbar-expand-lg navbar-dark">
         <button
             id="navbar-toggler"
+            #navbarTogglerButton
+            [ngClass]="{'collapsed': !isNavbarExpanded}"
             class="navbar-toggler"
             type="button"
             data-toggle="collapse"
@@ -17,7 +19,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div id="navigation" class="collapse navbar-collapse d-flex flex-column">
+        <div id="navigation" #navbar [ngClass]="{'show': isNavbarExpanded}" class="collapse navbar-collapse flex-column">
             <div class="profile-section pt-3 pt-lg-0">
                 <img
                     class="profile-image mb-3 rounded-circle mx-auto"

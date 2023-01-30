@@ -10,3 +10,9 @@
     text-decoration: none !important;
 }
 
+.collapse {
+    display: none;
+    &.show {
+        display: block;
+    }
+}
