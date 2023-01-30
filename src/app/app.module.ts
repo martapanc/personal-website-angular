@@ -11,6 +11,8 @@ import { TravelComponent } from './core/travel/travel.component';
 import { FoodComponent } from './core/food/food.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { SocialMediaLinkComponent } from './shared/components/social-media-link/social-media-link.component';
+import { MenuItemComponent } from './shared/components/menu-item/menu-item.component';
 
 @NgModule({
     declarations: [
@@ -21,6 +23,8 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
         ProjectsComponent,
         TravelComponent,
         FoodComponent,
+        SocialMediaLinkComponent,
+        MenuItemComponent,
     ],
     imports: [
         BrowserModule,

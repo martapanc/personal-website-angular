@@ -22,55 +22,24 @@
                 <img
                     class="profile-image mb-3 rounded-circle mx-auto"
                     src="./assets/images/profile.webp"
-                    alt="avatar" />
+                    alt="avatar"/>
 
                 <div class="bio mb-3">
                     <h5 class="mb-0" id="user-title">Software Engineer</h5>
                 </div>
 
                 <ul class="social-list list-inline py-3 mx-auto">
-                    <li class="list-inline-item">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://www.linkedin.com/in/martapancaldi/">
-                            <fa-icon [icon]="icons.faLinkedin"></fa-icon>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://github.com/martapanc">
-                            <fa-icon [icon]="icons.faGithub"></fa-icon>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://www.instagram.com/pancakemarta/">
-                            <fa-icon [icon]="icons.faInstagram"></fa-icon>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://www.goodreads.com/topolinamarta">
-                            <fa-icon [icon]="icons.faGoodreads"></fa-icon>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://steamcommunity.com/id/martap/">
-                            <fa-icon [icon]="icons.faSteam"></fa-icon>
-                        </a>
+                    <li class="list-inline-item" *ngFor="let link of socialMediaLinks">
+                        <app-social-media-link [icon]="link.icon" [url]="link.url"></app-social-media-link>
                     </li>
                 </ul>
             </div>
+
+            <ul class="navbar-nav flex-column text-left">
+                <li class="nav-item" *ngFor="let item of menuItems">
+                    <app-menu-item [icon]="item.icon" [title]="item.title"></app-menu-item>
+                </li>
+            </ul>
         </div>
     </nav>
 </div>
