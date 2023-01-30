@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
+import { SocialMediaLink } from '../../models/SocialMediaLink';
 
 @Component({
     selector: 'app-social-media-link',
@@ -7,6 +7,5 @@ import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
     styleUrls: ['./social-media-link.component.scss'],
 })
 export class SocialMediaLinkComponent {
-    @Input() icon!: IconDefinition;
-    @Input() url!: string;
+    @Input() socialMediaLink!: SocialMediaLink;
 }

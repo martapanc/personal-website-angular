@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
+import { MenuItem } from '../../models/MenuItem';
 
 @Component({
     selector: 'app-menu-item',
@@ -7,6 +7,5 @@ import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
     styleUrls: ['./menu-item.component.scss'],
 })
 export class MenuItemComponent {
-    @Input() icon!: IconDefinition;
-    @Input() title!: string;
+    @Input() menuItem!: MenuItem;
 }

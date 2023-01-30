@@ -13,6 +13,8 @@ import {
     faPizzaSlice,
     faUser,
 } from '@fortawesome/free-solid-svg-icons';
+import { MenuItem } from '../../models/MenuItem';
+import { SocialMediaLink } from '../../models/SocialMediaLink';
 
 @Component({
     selector: 'app-sidebar',
@@ -25,7 +27,7 @@ export class SidebarComponent {
 
     isNavbarExpanded = false;
 
-    socialMediaLinks = [
+    socialMediaLinks: SocialMediaLink[] = [
         { icon: faLinkedin, url: 'https://www.linkedin.com/in/martapancaldi/' },
         { icon: faGithub, url: 'https://github.com/martapanc/' },
         { icon: faInstagram, url: 'https://www.instagram.com/pancakemarta/' },
@@ -33,12 +35,12 @@ export class SidebarComponent {
         { icon: faSteam, url: 'https://steamcommunity.com/id/martap/' },
     ];
 
-    menuItems = [
-        { icon: faUser, title: 'About me' },
-        { icon: faFileAlt, title: 'CV' },
-        { icon: faCode, title: 'Projects' },
-        { icon: faGlobe, title: 'Travel Pictures' },
-        { icon: faPizzaSlice, title: 'Food Pictures' },
+    menuItems: MenuItem[] = [
+        { icon: faUser, title: 'About me', url: '/' },
+        { icon: faFileAlt, title: 'CV', url: '/cv' },
+        { icon: faCode, title: 'Projects', url: '/projects' },
+        { icon: faGlobe, title: 'Travel Pictures', url: '/travel' },
+        { icon: faPizzaSlice, title: 'Food Pictures', url: '/food' },
     ];
 
     toggleMobileSidebar() {
