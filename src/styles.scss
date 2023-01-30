@@ -8,9 +8,19 @@
 // Be sure that you only ever include this mixin once!
 @include mat.core();
 
-@import 'src/app/shared/styles/main';
-@import 'src/app/shared/styles/base';
-@import 'src/app/shared/styles/responsive';
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import "src/app/shared/styles/main";
+
+
+:host {
+    font-family: $font-family-sans-serif;
+    font-size: $base-font-size;
+    color: #333;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
@@ -47,5 +57,4 @@ body {
 
 body {
     margin: 0;
-    font-family: Roboto, 'Helvetica Neue', sans-serif;
 }

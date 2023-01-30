@@ -2,10 +2,17 @@
     color: #fff;
 }
 
-fa-icon {
-    font-size: 16px;
-}
-
 .list-inline-item a {
     color: #0f50b9;
+}
+
+.navbar a:hover {
+    text-decoration: none !important;
+}
+
+.collapse {
+    display: none;
+    &.show {
+        display: block;
+    }
 }
