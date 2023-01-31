@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { SocialMediaLink } from '../../models/SocialMediaLink';
+import { SocialMediaLink } from '../../../shared/models/SocialMediaLink';
 
 @Component({
     selector: 'app-social-media-link',

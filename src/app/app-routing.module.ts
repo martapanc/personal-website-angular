@@ -1,10 +1,10 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './core/home/home.component';
-import { CvComponent } from './core/cv/cv.component';
-import { ProjectsComponent } from './core/projects/projects.component';
-import { FoodComponent } from './core/food/food.component';
-import { TravelComponent } from './core/travel/travel.component';
+import { HomeComponent } from './module/home/home.component';
+import { CvComponent } from './module/cv/cv.component';
+import { ProjectsComponent } from './module/projects/projects.component';
+import { FoodComponent } from './module/food/food.component';
+import { TravelComponent } from './module/travel/travel.component';
 
 const routes: Routes = [
     { path: '', component: HomeComponent },

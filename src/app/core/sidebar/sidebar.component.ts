@@ -13,8 +13,8 @@ import {
     faPizzaSlice,
     faUser,
 } from '@fortawesome/free-solid-svg-icons';
-import { MenuItem } from '../../models/MenuItem';
-import { SocialMediaLink } from '../../models/SocialMediaLink';
+import { MenuItem } from '../../shared/models/MenuItem';
+import { SocialMediaLink } from '../../shared/models/SocialMediaLink';
 import { TranslateService } from '@ngx-translate/core';
 
 @Component({
