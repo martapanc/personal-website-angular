@@ -1,8 +1,10 @@
 name: Build Angular App
 
 on:
-  pull_request:
-    types: [opened, reopened]
+  - pull_request
+  - push:
+      branches:
+         - master
 
 jobs:
   build & verify:
