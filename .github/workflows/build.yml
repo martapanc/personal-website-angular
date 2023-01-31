@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  deploy:
+  build & verify:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
