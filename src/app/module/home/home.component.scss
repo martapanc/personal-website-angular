@@ -1,0 +1,15 @@
+.projects-and-cv-buttons a {
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) {
+    .container {
+        width: 95%;
+    }
+}

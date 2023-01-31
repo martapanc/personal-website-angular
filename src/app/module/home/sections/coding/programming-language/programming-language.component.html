@@ -1,0 +1,12 @@
+<div>
+    <div class='item-inner'>
+        <img *ngFor='let icon of programmingLanguage.icons'
+             class='programming-language-icon me-1'
+             [src]='icon.url'
+             [alt]='icon.title'
+             height='35'
+        />
+        <h3 class='item-title'>{{ programmingLanguage.title }}</h3>
+        <div class='item-desc' [innerHTML]='programmingLanguage.text'></div>
+    </div>
+</div>

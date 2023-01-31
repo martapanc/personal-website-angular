@@ -9,13 +9,26 @@ import { HttpClient } from '@angular/common/http';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { CoreModule } from './core/core.module';
 import { AppRoutingModule } from './app-routing.module';
+import { IntroComponent } from './module/home/sections/intro/intro.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { CodingComponent } from './module/home/sections/coding/coding.component';
+import { ProgrammingLanguageComponent } from './module/home/sections/coding/programming-language/programming-language.component';
+import { NgClass, NgForOf, NgIf, SlicePipe } from '@angular/common';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
 }
 
 @NgModule({
-    imports: [CoreModule, AppRoutingModule],
+    imports: [
+        CoreModule,
+        AppRoutingModule,
+        FontAwesomeModule,
+        NgForOf,
+        NgClass,
+        SlicePipe,
+        NgIf,
+    ],
     declarations: [
         AppComponent,
         HomeComponent,
@@ -23,6 +36,9 @@ export function HttpLoaderFactory(http: HttpClient) {
         ProjectsComponent,
         TravelComponent,
         FoodComponent,
+        IntroComponent,
+        CodingComponent,
+        ProgrammingLanguageComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],

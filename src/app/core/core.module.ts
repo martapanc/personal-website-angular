@@ -11,7 +11,6 @@ import { HttpLoaderFactory } from '../app.module';
 
 @NgModule({
     imports: [
-        TranslateModule,
         FontAwesomeModule,
         BrowserModule,
         BrowserAnimationsModule,
