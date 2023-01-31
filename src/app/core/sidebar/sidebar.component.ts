@@ -1,18 +1,6 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
-import {
-    faGithub,
-    faGoodreads,
-    faInstagram,
-    faLinkedin,
-    faSteam,
-} from '@fortawesome/free-brands-svg-icons';
-import {
-    faCode,
-    faFileAlt,
-    faGlobe,
-    faPizzaSlice,
-    faUser,
-} from '@fortawesome/free-solid-svg-icons';
+import { faGithub, faGoodreads, faInstagram, faLinkedin, faSteam } from '@fortawesome/free-brands-svg-icons';
+import { faCode, faFileAlt, faGlobe, faPizzaSlice, faUser } from '@fortawesome/free-solid-svg-icons';
 import { MenuItem } from '../../shared/models/MenuItem';
 import { SocialMediaLink } from '../../shared/models/SocialMediaLink';
 import { TranslateService } from '@ngx-translate/core';
@@ -48,10 +36,7 @@ export class SidebarComponent {
 
     toggleMobileSidebar() {
         this.isNavbarExpanded = !this.isNavbarExpanded;
-        this.navbarTogglerButton.nativeElement.setAttribute(
-            'aria-expanded',
-            this.isNavbarExpanded.toString()
-        );
+        this.navbarTogglerButton.nativeElement.setAttribute('aria-expanded', this.isNavbarExpanded.toString());
     }
 
     private translate(key: string): string {

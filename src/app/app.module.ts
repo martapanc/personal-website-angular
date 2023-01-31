@@ -20,15 +20,7 @@ export function HttpLoaderFactory(http: HttpClient) {
 }
 
 @NgModule({
-    imports: [
-        CoreModule,
-        AppRoutingModule,
-        FontAwesomeModule,
-        NgForOf,
-        NgClass,
-        SlicePipe,
-        NgIf,
-    ],
+    imports: [CoreModule, AppRoutingModule, FontAwesomeModule, NgForOf, NgClass, SlicePipe, NgIf],
     declarations: [
         AppComponent,
         HomeComponent,
