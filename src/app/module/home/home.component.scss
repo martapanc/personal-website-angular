@@ -31,7 +31,7 @@
         }
     }
 
-    #languages, #publications {
+    #languages, #publications, #github {
         width: 85%;
     }
 
@@ -53,6 +53,7 @@ a.url-title {
 .pub-card {
     padding: 10px 20px;
     height: 165px;
+    margin-bottom: 16px;
 }
 
 .pub-title {

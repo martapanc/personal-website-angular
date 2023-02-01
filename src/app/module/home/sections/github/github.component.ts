@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
     templateUrl: './github.component.html',
     styleUrls: ['../../home.component.scss'],
 })
-export class GithubComponent {}
+export class GithubComponent {
+    options: any;
+}

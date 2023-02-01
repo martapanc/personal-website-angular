@@ -22,6 +22,7 @@ import { LanguagesComponent } from './module/home/sections/languages/languages.c
 import { PublicationsComponent } from './module/home/sections/publications/publications.component';
 import { GithubComponent } from './module/home/sections/github/github.component';
 import { PubItemComponent } from './module/home/sections/publications/pub-item/pub-item.component';
+import { GithubCalendarComponent } from './module/home/sections/github/github-calendar/github-calendar.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
@@ -47,6 +48,7 @@ export function HttpLoaderFactory(http: HttpClient) {
         PublicationsComponent,
         GithubComponent,
         PubItemComponent,
+        GithubCalendarComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
