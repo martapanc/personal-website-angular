@@ -2,14 +2,37 @@
     text-decoration: none;
 }
 
+#read-more-btn {
+    margin-bottom: 0.5rem;
+}
+
+// Small screens
 @media (max-width: 768px) {
     .container {
         width: 100%;
     }
+
+    .item-desc ul {
+        margin-left: 0;
+    }
 }
 
+// Large screens
 @media (min-width: 769px) {
     .container {
         width: 95%;
     }
+
+    #experience {
+        width: 85%;
+
+        .row > * {
+            width: 88%;
+        }
+    }
+
+    .item-desc div {
+        padding-left: 40px;
+    }
+
 }

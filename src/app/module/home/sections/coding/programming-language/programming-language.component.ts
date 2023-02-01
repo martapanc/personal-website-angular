@@ -4,8 +4,9 @@ import { ProgrammingLanguage } from '../../../../../shared/models/ProgrammingLan
 @Component({
     selector: 'app-programming-language',
     templateUrl: './programming-language.component.html',
+    styleUrls: ['../../../home.component.scss'],
 })
 export class ProgrammingLanguageComponent {
     @Input() programmingLanguage!: ProgrammingLanguage;
-    // @Input() display!: boolean;
+    @Input() show!: boolean;
 }

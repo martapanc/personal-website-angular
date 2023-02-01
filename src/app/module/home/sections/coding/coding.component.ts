@@ -5,14 +5,13 @@ import { ProgrammingLanguage } from '../../../../shared/models/ProgrammingLangua
 @Component({
     selector: 'app-coding',
     templateUrl: './coding.component.html',
+    styleUrls: ['../../home.component.scss'],
 })
 export class CodingComponent {
     languageData: ProgrammingLanguage[] = LanguageData;
-    showReadMoreButton = true;
-    expandItems = 99;
+    showExpandedSection = false;
 
     expand() {
-        this.showReadMoreButton = false;
-        this.expandItems = 3;
+        this.showExpandedSection = true;
     }
 }
