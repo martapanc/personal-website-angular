@@ -8,5 +8,5 @@ import { ProgrammingLanguage } from '../../../../../shared/models/ProgrammingLan
 })
 export class ProgrammingLanguageComponent {
     @Input() programmingLanguage!: ProgrammingLanguage;
-    // @Input() display!: boolean;
+    @Input() show!: boolean;
 }

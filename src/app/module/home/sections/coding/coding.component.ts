@@ -9,11 +9,9 @@ import { ProgrammingLanguage } from '../../../../shared/models/ProgrammingLangua
 })
 export class CodingComponent {
     languageData: ProgrammingLanguage[] = LanguageData;
-    showReadMoreButton = true;
-    expandItems = 99;
+    showExpandedSection = false;
 
     expand() {
-        this.showReadMoreButton = false;
-        this.expandItems = 3;
+        this.showExpandedSection = true;
     }
 }
