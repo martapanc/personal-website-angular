@@ -1,0 +1,19 @@
+<section class="overview-section p-3 p-lg-3">
+    <a id="work"></a>
+    <div class="container d-flex flex-column" id="experience">
+        <h2 class="section-title font-weight-bold mb-3">
+            <img
+                class="school-icon responsive-hide"
+                src="assets/images/intro/work-bag.svg"
+                alt="Work Experience"
+                height="42"
+            />
+            Work Experience
+        </h2>
+        <div class="d-flex row">
+            <app-work-experience *ngFor='let workExperience of workExperienceData'
+                                 [workExperience]='workExperience'>
+            </app-work-experience>
+        </div>
+    </div>
+</section>

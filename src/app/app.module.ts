@@ -14,13 +14,23 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { CodingComponent } from './module/home/sections/coding/coding.component';
 import { ProgrammingLanguageComponent } from './module/home/sections/coding/programming-language/programming-language.component';
 import { NgClass, NgForOf, NgIf, SlicePipe } from '@angular/common';
+import { WorkComponent } from './module/home/sections/work/work.component';
+import { WorkExperienceComponent } from './module/home/sections/work/work-experience/work-experience.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
 }
 
 @NgModule({
-    imports: [CoreModule, AppRoutingModule, FontAwesomeModule, NgForOf, NgClass, SlicePipe, NgIf],
+    imports: [
+        CoreModule,
+        AppRoutingModule,
+        FontAwesomeModule,
+        NgForOf,
+        NgClass,
+        SlicePipe,
+        NgIf,
+    ],
     declarations: [
         AppComponent,
         HomeComponent,
@@ -31,6 +41,8 @@ export function HttpLoaderFactory(http: HttpClient) {
         IntroComponent,
         CodingComponent,
         ProgrammingLanguageComponent,
+        WorkComponent,
+        WorkExperienceComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
