@@ -1,0 +1,19 @@
+<div class='card shadow pub-card'>
+    <div class='card-content pub-card-content h-100 d-flex flex-column justify-content-between'>
+        <div class='pub-title'>
+            {{publication.title}}
+        </div>
+        <div class='pub-content d-flex justify-content-between'>
+            <div>
+                <span>{{publication.description}}</span>
+                <br />
+                <span>{{publication.context}}</span>
+            </div>
+            <div class='d-flex flex-column justify-content-end'>
+                <a target='_blank' href='{{publication.url}}' rel='noopener noreferrer' class='pub-link'>
+                    <fa-icon [icon]='icons.faExternalLinkAlt'></fa-icon>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -38,7 +38,8 @@
             </div>
 
             <app-programming-language
-                class='item col-12 col-md-4 col-lg-4'
+                class='col-12 col-md-4 col-lg-4'
+                [ngClass]='{"item": showExpandedSection}'
                 *ngFor='let language of languageData | slice:3'
                 [programmingLanguage]='language'
                 [show]='showExpandedSection'

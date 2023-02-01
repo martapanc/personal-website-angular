@@ -1,0 +1,21 @@
+<section class="overview-section p-3 p-lg-3 responsive-adjust">
+    <a id="publications-section"></a>
+    <div class="container" id='publications'>
+        <h2 class="section-title font-weight-bold mb-3">
+            <img
+                class="school-icon responsive-hide"
+                src="assets/images/intro/newspaper.svg"
+                alt="Publications"
+                height="42"
+            />
+            Publications
+        </h2>
+        <div class="row">
+            <app-pub-item
+                class="col-12 col-sm-12 col-lg-4"
+                *ngFor='let publication of publicationsData'
+                [publication]='publication'
+            ></app-pub-item>
+        </div>
+    </div>
+</section>
