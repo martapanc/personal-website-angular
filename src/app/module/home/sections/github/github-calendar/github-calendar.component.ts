@@ -1,14 +1,23 @@
-import { Component, Inject, OnInit, Renderer2, ViewEncapsulation } from '@angular/core';
+import {
+    Component,
+    Inject,
+    OnInit,
+    Renderer2,
+    ViewEncapsulation,
+} from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 
 @Component({
     selector: 'app-github-calendar',
     templateUrl: './github-calendar.component.html',
-    styleUrls: ['./github-calendar.component.css'],
+    styleUrls: ['./github-calendar.component.scss'],
     encapsulation: ViewEncapsulation.None,
 })
 export class GithubCalendarComponent implements OnInit {
-    constructor(@Inject(DOCUMENT) private _document: Document, private renderer2: Renderer2) {}
+    constructor(
+        @Inject(DOCUMENT) private _document: Document,
+        private renderer2: Renderer2
+    ) {}
 
     ngOnInit(): void {
         const s = this.renderer2.createElement('script');
