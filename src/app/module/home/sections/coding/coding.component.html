@@ -1,0 +1,47 @@
+<section class='overview-section p-3 p-lg-3'>
+    <a id='software-dev'></a>
+    <div class='container' id='software-development'>
+        <h2 class='section-title font-weight-bold mb-3'>
+            <img
+                class='school-icon responsive-hide'
+                src='assets/images/intro/laptop.svg'
+                alt='Work laptop'
+                height='42'
+            />
+            Software Development
+        </h2>
+        <div class='section-intro mb-4'>
+            Software development has been both my passion and my work
+            for 8 years. Below is a quick overview of my main technical
+            skill sets and technologies I use. Want to find out more
+            about my experience? Check out my
+            <a href='/cv'>online CV</a> and
+            <a href='/projects'>project portfolio</a>.
+        </div>
+        <div class='d-flex row'>
+            <app-programming-language
+                class='item col-12 col-md-4 col-lg-4'
+                *ngFor='let language of languageData | slice:0:3'
+                [programmingLanguage]='language'
+            >
+            </app-programming-language>
+
+            <div
+                id='read-more-btn'
+                class='item col-12 col-md-12 col-lg-12 text-end'
+                *ngIf='showReadMoreButton'
+            >
+                <button class='btn btn-info' (click)='expand()'>
+                    Read more
+                </button>
+            </div>
+
+            <app-programming-language
+                class='item col-12 col-md-4 col-lg-4'
+                *ngFor='let language of languageData | slice:expandItems'
+                [programmingLanguage]='language'
+            >
+            </app-programming-language>
+        </div>
+    </div>
+</section>

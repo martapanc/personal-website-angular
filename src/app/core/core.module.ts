@@ -11,7 +11,6 @@ import { HttpLoaderFactory } from '../app.module';
 
 @NgModule({
     imports: [
-        TranslateModule,
         FontAwesomeModule,
         BrowserModule,
         BrowserAnimationsModule,
@@ -25,11 +24,7 @@ import { HttpLoaderFactory } from '../app.module';
             },
         }),
     ],
-    declarations: [
-        SidebarComponent,
-        MenuItemComponent,
-        SocialMediaLinkComponent,
-    ],
+    declarations: [SidebarComponent, MenuItemComponent, SocialMediaLinkComponent],
     exports: [SidebarComponent],
 })
 export class CoreModule {}
