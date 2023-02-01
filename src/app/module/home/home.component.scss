@@ -31,6 +31,10 @@
         }
     }
 
+    #languages, #publications {
+        width: 85%;
+    }
+
     .item-desc div {
         padding-left: 40px;
     }
@@ -44,4 +48,25 @@ a.url-title {
         color: #13459D;
         text-decoration: underline;
     }
+}
+
+.pub-card {
+    padding: 10px 20px;
+    height: 165px;
+}
+
+.pub-title {
+    font-family: "PT Serif", "serif";
+    font-weight: bold;
+}
+
+.pub-content {
+    //position: absolute;
+    //bottom: 0;
+    padding: 10px 0;
+    //width: 90%;
+}
+
+.pub-link {
+    font-size: 22px;
 }

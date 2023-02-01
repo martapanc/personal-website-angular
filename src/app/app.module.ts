@@ -18,6 +18,10 @@ import { WorkComponent } from './module/home/sections/work/work.component';
 import { WorkExperienceComponent } from './module/home/sections/work/work-experience/work-experience.component';
 import { EducationComponent } from './module/home/sections/education/education.component';
 import { SchoolComponent } from './module/home/sections/education/school/school.component';
+import { LanguagesComponent } from './module/home/sections/languages/languages.component';
+import { PublicationsComponent } from './module/home/sections/publications/publications.component';
+import { GithubComponent } from './module/home/sections/github/github.component';
+import { PubItemComponent } from './module/home/sections/publications/pub-item/pub-item.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
@@ -39,6 +43,10 @@ export function HttpLoaderFactory(http: HttpClient) {
         WorkExperienceComponent,
         EducationComponent,
         SchoolComponent,
+        LanguagesComponent,
+        PublicationsComponent,
+        GithubComponent,
+        PubItemComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
