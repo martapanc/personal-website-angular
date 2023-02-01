@@ -4,7 +4,7 @@ import { DOCUMENT } from '@angular/common';
 @Component({
     selector: 'app-github-calendar',
     templateUrl: './github-calendar.component.html',
-    styleUrls: ['./github-calendar.component.css'],
+    styleUrls: ['./github-calendar.component.scss'],
     encapsulation: ViewEncapsulation.None,
 })
 export class GithubCalendarComponent implements OnInit {
