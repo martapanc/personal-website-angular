@@ -16,6 +16,8 @@ import { ProgrammingLanguageComponent } from './module/home/sections/coding/prog
 import { NgClass, NgForOf, NgIf, SlicePipe } from '@angular/common';
 import { WorkComponent } from './module/home/sections/work/work.component';
 import { WorkExperienceComponent } from './module/home/sections/work/work-experience/work-experience.component';
+import { EducationComponent } from './module/home/sections/education/education.component';
+import { SchoolComponent } from './module/home/sections/education/school/school.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
@@ -35,6 +37,8 @@ export function HttpLoaderFactory(http: HttpClient) {
         ProgrammingLanguageComponent,
         WorkComponent,
         WorkExperienceComponent,
+        EducationComponent,
+        SchoolComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
