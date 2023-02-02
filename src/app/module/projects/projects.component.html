@@ -1,1 +1,86 @@
-<p>projects works!</p>
+<div class="single-page">
+    <app-header [title]='"My Projects"'></app-header>
+
+    <section class="project-section p-3 p-lg-3">
+        <div class="container">
+            <div class="row">
+                <div class="item col-12">
+                    <span>
+                        <b>Filter by: &emsp;</b>
+                    </span>
+                    <button
+                        id="java-filter-btn"
+                        class="btn btn-danger btn-sm filter-btn"
+                    >
+                        Java
+                    </button>
+                    <button
+                        id="kotlin-filter-btn"
+                        class="btn btn-primary3 btn-sm filter-btn"
+                    >
+                        Kotlin
+                    </button>
+                    <button
+                        id="python-filter-btn"
+                        class="btn btn-primary btn-primary2 btn-sm filter-btn"
+                    >
+                        Python
+                    </button>
+                    <button
+                        id="android-filter-btn"
+                        class="btn btn-android btn-sm filter-btn"
+                    >
+                        Android
+                    </button>
+                    <button
+                        id="web-filter-btn"
+                        class="btn btn-warning btn-sm filter-btn"
+                    >
+                        Web
+                    </button>
+                    <button
+                        id="self-filter-btn"
+                        class="btn btn-orange btn-sm filter-btn"
+                    >
+                        Personal
+                    </button>
+                    <button
+                        id="uni-filter-btn"
+                        class="btn btn-light btn-sm filter-btn"
+                    >
+                        University
+                    </button>
+                    <button
+                        id="work-filter-btn"
+                        class="btn btn-primary btn-sm filter-btn"
+                    >
+                        Work
+                    </button>
+                    <button
+                        id="public-filter-btn"
+                        class="btn btn-green btn-sm filter-btn"
+                    >
+                        Publications
+                    </button>
+                    <button
+                        id="hack-filter-btn"
+                        class="btn btn-info btn-info2 btn-sm filter-btn"
+                    >
+                        Hackathon
+                    </button>
+                    <button
+                        id="all-filter-btn"
+                        class="btn btn-white btn-sm filter-btn"
+                    >
+                        Show all
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <app-project-card *ngFor='let project of projectData' [project]='project'></app-project-card>
+            </div>
+        </div>
+    </section>
+
+    <Section></Section>
+</div>

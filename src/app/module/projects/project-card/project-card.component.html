@@ -1,0 +1,37 @@
+<div class="col-12 col-md-4 col-lg-4 project-card" data-tags="">
+    <div class="card">
+        <img
+            class="img-responsive"
+            [src]='project.photo'
+            alt="Project"
+        />
+
+        <div class="card-content">
+            <span class="card-title">
+                {{project.title}}
+            </span>
+            <button type="button" aria-label="Left Align"
+                    class="btn btn-custom pull-right"
+                    [ngClass]='project.id + "-expand-btn"'>
+                <fa-icon [icon]='icons.faEllipsisV'></fa-icon>
+            </button>
+        </div>
+        <div class="card-action">
+
+        </div>
+        <div class="card-reveal" [ngClass]='project.id + "-card-reveal"'>
+            <span class="card-title">
+                <strong>
+                    {{project.title}}
+                </strong>
+            </span>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+            <br />
+            <span>
+                {{project.title}}
+            </span>
+        </div>
+    </div>
+</div>

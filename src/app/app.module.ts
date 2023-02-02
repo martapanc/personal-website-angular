@@ -26,6 +26,7 @@ import { FunComponent } from './module/home/sections/fun/fun.component';
 import { BookSectionComponent } from './module/home/sections/fun/book-section/book-section.component';
 import { BookComponent } from './module/home/sections/fun/book/book.component';
 import { CoolFactsComponent } from './module/home/sections/cool-facts/cool-facts.component';
+import { ProjectCardComponent } from './module/projects/project-card/project-card.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
@@ -55,6 +56,7 @@ export function HttpLoaderFactory(http: HttpClient) {
         BookSectionComponent,
         BookComponent,
         CoolFactsComponent,
+        ProjectCardComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],
