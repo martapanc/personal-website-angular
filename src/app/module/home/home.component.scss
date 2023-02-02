@@ -31,13 +31,34 @@
         }
     }
 
-    #languages, #publications, #github {
+    #languages, #publications, #github, #fun, #cool-facts {
         width: 85%;
+    }
+
+    #book-section {
+        margin: 0;
+
+        .row > *, app-book {
+            padding-left: 0;
+            padding-right: 0;
+        }
     }
 
     .item-desc div {
         padding-left: 40px;
     }
+}
+
+#music ul {
+    margin-left: 5px;
+}
+
+.icon-left {
+    margin-right: 10px;
+}
+
+.icon-right {
+    margin-left: 10px;
 }
 
 a.url-title {
@@ -70,4 +91,49 @@ a.url-title {
 
 .pub-link {
     font-size: 22px;
+}
+
+.cool-facts-title {
+    color: #1d078d;
+    font-family: "Bradley Hand", serif;
+    text-align: center;
+}
+
+.cool-facts-container {
+    min-height: 135px;
+}
+
+.cool-facts-item {
+    display: flex;
+    justify-content: center;
+
+    &__text {
+        height: 100px;
+    }
+
+    &__button {
+        bottom: 0;
+        min-height: 50px;
+    }
+}
+
+#cool-fact.center {
+    text-align: center;
+}
+
+button#cool-facts-button {
+    &.fade-out {
+        transition: opacity 3s ease-out;
+        opacity: 1;
+    }
+
+    &[hidden='true'] {
+        opacity: 0;
+    }
+}
+
+.check-element {
+    border: 1px solid black;
+    opacity: 1;
+    padding: 10px;
 }

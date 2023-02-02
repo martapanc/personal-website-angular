@@ -1,0 +1,15 @@
+<section class="overview-section p3 p-lg-3 responsive-hide">
+    <a id="cool-facts-section"></a>
+    <div class="container cool-facts-container" id="cool-facts">
+        <h2 class="section-title font-weight-bold mb-3 cool-facts-title">Cool facts about me</h2>
+        <div class="cool-facts-item cool-facts-item__text">
+            <span id="cool-fact" [innerHTML]='coolFactText' [ngClass]='{"center": hideButton}'></span>
+        </div>
+        <div class="cool-facts-item cool-facts-item__button">
+            <button id="cool-facts-button" class="btn btn-primary2 check-element fade-out"
+                    [disabled]='hideButton' (click)='nextFact()'>
+                Get another random fact
+            </button>
+        </div>
+    </div>
+</section>
