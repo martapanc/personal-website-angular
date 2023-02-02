@@ -22,6 +22,10 @@ import { LanguagesComponent } from './module/home/sections/languages/languages.c
 import { PublicationsComponent } from './module/home/sections/publications/publications.component';
 import { GithubComponent } from './module/home/sections/github/github.component';
 import { PubItemComponent } from './module/home/sections/publications/pub-item/pub-item.component';
+<<<<<<< HEAD
+=======
+import { GithubCalendarComponent } from './module/home/sections/github/github-calendar/github-calendar.component';
+>>>>>>> f141f05 (Add fun component - wip)
 import { FunComponent } from './module/home/sections/fun/fun.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
@@ -48,7 +52,7 @@ export function HttpLoaderFactory(http: HttpClient) {
         PublicationsComponent,
         GithubComponent,
         PubItemComponent,
-        FunComponent,
+        FunComponent
     ],
     providers: [],
     bootstrap: [AppComponent],
