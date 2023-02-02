@@ -8,6 +8,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { HttpLoaderFactory } from '../app.module';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
     imports: [
@@ -24,7 +25,7 @@ import { HttpLoaderFactory } from '../app.module';
             },
         }),
     ],
-    declarations: [SidebarComponent, MenuItemComponent, SocialMediaLinkComponent],
-    exports: [SidebarComponent],
+    declarations: [SidebarComponent, MenuItemComponent, SocialMediaLinkComponent, FooterComponent],
+    exports: [SidebarComponent, FooterComponent],
 })
 export class CoreModule {}
