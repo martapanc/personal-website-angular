@@ -31,8 +31,25 @@
         }
     }
 
-    #languages, #publications, #github {
+    #languages, #publications, #github, #fun {
         width: 85%;
+    }
+
+    #book-section {
+        margin: 0;
+
+        .row > *, app-book {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+
+    #music ul {
+        margin-left: 5px;
+    }
+
+    .icon-left {
+        margin-right: 10px;
     }
 
     .item-desc div {

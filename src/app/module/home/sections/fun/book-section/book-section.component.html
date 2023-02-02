@@ -1,0 +1,9 @@
+<section class="overview-section">
+    <div class="container" id="book-section">
+        <div class="bookSection row">
+            <app-book *ngFor='let book of bookData' style='width: 49px' class='px-0'
+                      [book]='book'
+            ></app-book>
+        </div>
+    </div>
+</section>
