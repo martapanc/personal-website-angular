@@ -1,1 +1,22 @@
-<p>cv works!</p>
+<div class="single-page">
+    <app-header [title]='"My CV"'></app-header>
+
+    <div>
+        <div class='container px-3 px-lg-5'>
+            <div style='margin-top: 15px; text-align: center'>
+                <a (click)='downloadPdfEvent()'
+                   [href]='cv.pdf' class='btn btn-primary2 mr-2 mb-3'
+                   target='_blank'
+                   rel='noopener noreferrer'>
+                    <fa-icon [icon]='icons.faDownload'></fa-icon>
+                    Download PDF
+                </a>
+            </div>
+            <div class='resume-wrapper mx-auto p-4 mb-4 my-2 shadow-lg'>
+                <img [src]='cv.render' alt='CV' />
+            </div>
+        </div>
+    </div>
+
+    <Section></Section>
+</div>

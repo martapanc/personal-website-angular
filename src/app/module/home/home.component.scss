@@ -15,6 +15,10 @@
     .item-desc ul {
         margin-left: 0;
     }
+
+    .single-page {
+        width: 100%;
+    }
 }
 
 // Large screens
@@ -46,6 +50,10 @@
 
     .item-desc div {
         padding-left: 40px;
+    }
+
+    .single-page {
+        width: calc(100% - 280px);
     }
 }
 

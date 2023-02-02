@@ -9,6 +9,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { HttpLoaderFactory } from '../app.module';
 import { FooterComponent } from './footer/footer.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
     imports: [
@@ -25,7 +26,7 @@ import { FooterComponent } from './footer/footer.component';
             },
         }),
     ],
-    declarations: [SidebarComponent, MenuItemComponent, SocialMediaLinkComponent, FooterComponent],
-    exports: [SidebarComponent, FooterComponent],
+    declarations: [SidebarComponent, MenuItemComponent, SocialMediaLinkComponent, FooterComponent, HeaderComponent],
+    exports: [SidebarComponent, FooterComponent, HeaderComponent],
 })
 export class CoreModule {}
