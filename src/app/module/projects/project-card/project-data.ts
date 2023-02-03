@@ -5,7 +5,7 @@ export const ProjectData: Project[] = [
         title: 'Team toolbar plugin',
         id: 'bitbar',
         year: 2020,
-        photo: 'assets/images/projects/Bitbar.webp',
+        photo: 'assets/images/projects/bitbar.webp',
         repo: 'https://github.com/martapanc/BitBar-distrib',
         tags: ['python', 'work'],
         text:
@@ -37,7 +37,7 @@ export const ProjectData: Project[] = [
         title: 'Cloud computing and GDPR',
         id: 'gdpr',
         year: 2018,
-        photo: 'assets/images/projects/werners.webp',
+        photo: 'assets/images/projects/gdpr.webp',
         article: 'https://www.computer.org/csdl/magazine/cd/2018/06/mcd2018060058/17D45XwUAKp',
         tags: ['cloud', 'security', 'public', 'uni'],
         text:
@@ -93,7 +93,7 @@ export const ProjectData: Project[] = [
             'file formats, including binary files.',
     },
     {
-        title: 'MSc Dissertation -<br/>Automated Grading',
+        title: 'MSc Dissertation - Auto-grading',
         id: 'msc',
         year: 2018,
         photo: 'assets/images/projects/mscBook.webp',
@@ -106,7 +106,7 @@ export const ProjectData: Project[] = [
             'job when evaluating and grading them',
     },
     {
-        title: 'BSc Dissertation -<br/>Technical Debt',
+        title: 'BSc Dissertation - Technical Debt',
         id: 'bsc',
         year: 2017,
         photo: 'assets/images/projects/satd.webp',
@@ -206,7 +206,7 @@ export const ProjectData: Project[] = [
         title: 'Rentalcars.com Premium',
         id: 'premium',
         year: 2019,
-        photo: 'assets/images/projects/noodle1.webp',
+        photo: 'assets/images/projects/noodle.webp',
         report: 'assets/images/projects/noodle-pics.pdf',
         tags: ['web', 'work'],
         text:

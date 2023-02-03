@@ -1,37 +1,44 @@
-<div class="col-12 col-md-4 col-lg-4 project-card" data-tags="">
-    <div class="card">
-        <img
-            class="img-responsive"
-            [src]='project.photo'
-            alt="Project"
-        />
+<div class='project-card' data-tags=''>
+    <div class='card shadow-sm'>
+        <div #cardContent class='card-content' [style.display]="isExpanded ? 'none' : 'block'">
+            <img class='img-responsive' [src]='project.photo' [alt]='project.id' />
 
-        <div class="card-content">
-            <span class="card-title">
-                {{project.title}}
-            </span>
-            <button type="button" aria-label="Left Align"
-                    class="btn btn-custom pull-right"
-                    [ngClass]='project.id + "-expand-btn"'>
-                <fa-icon [icon]='icons.faEllipsisV'></fa-icon>
-            </button>
-        </div>
-        <div class="card-action">
+            <div class='d-flex flex-row justify-content-between my-2 card-title-row'>
+                <span [style.font-size]='fontSize'
+                      [style.padding-top]='paddingTop'
+                      class='card-title'
+                      [innerHTML]='project.title'>
+                </span>
+                <button (click)='expandInfoPanel()'
+                        type='button' aria-label='Left Align'
+                        class='btn btn-custom pull-right'
+                        [ngClass]='project.id + "-expand-btn"'>
+                    <fa-icon [icon]='icons.faEllipsisV'></fa-icon>
+                </button>
+            </div>
 
+            <div class='card-action'>
+
+            </div>
         </div>
-        <div class="card-reveal" [ngClass]='project.id + "-card-reveal"'>
-            <span class="card-title">
-                <strong>
-                    {{project.title}}
-                </strong>
-            </span>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">×</span>
-            </button>
-            <br />
-            <span>
-                {{project.title}}
-            </span>
+        <div #cardReveal class='card-reveal'
+             [ngClass]='project.id + "-card-reveal"'
+             [style.display]="isExpanded ? 'block' : 'none'"
+        >
+            <div class='d-flex flex-row justify-content-between'>
+                <span class='card-title'
+                      [style.font-size]='fontSize'
+                >
+                    <strong [innerHTML]='project.title'></strong>
+                </span>
+                <button (click)='closeInfoPanel()'
+                        type='button' class='btn btn-custom close'
+                        data-dismiss='modal' aria-label='Close'>
+                    <span aria-hidden='true'>×</span>
+                </button>
+            </div>
+            <hr />
+            <span [innerHTML]='project.text'></span>
         </div>
     </div>
 </div>

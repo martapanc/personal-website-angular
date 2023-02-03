@@ -77,7 +77,10 @@
                 </div>
             </div>
             <div class="row">
-                <app-project-card *ngFor='let project of projectData' [project]='project'></app-project-card>
+                <app-project-card
+                    class='col-12 col-md-4 col-lg-4'
+                    *ngFor='let project of projectData'
+                    [project]='project'></app-project-card>
             </div>
         </div>
     </section>

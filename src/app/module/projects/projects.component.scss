@@ -1,6 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
 
+.project-card {
+    .card-content, .card-reveal {
+        height: 300px;
+    }
+}
+
 .card .card-image {
     overflow: hidden;
     -webkit-transform-style: preserve-3d;
@@ -34,7 +40,8 @@
     0 2px 10px 0 rgba(0, 0, 0, 0.12);
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
     0 2px 10px 0 rgba(0, 0, 0, 0.12);
-    //box-shadow: 4 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card .card-content {
@@ -45,6 +52,7 @@
 .card-reveal .card-title {
     font-size: 24px;
     font-weight: 200;
+    height: 36px !important;
 }
 
 .card .card-action {
@@ -69,26 +77,30 @@
 
 .card .card-reveal {
     padding: 20px;
-    position: absolute;
+    //position: absolute;
     background-color: #fff;
     width: 100%;
     overflow-y: auto;
-    /*top: 0;*/
-    left: 0;
-    bottom: 0;
-    height: 100%;
+    //top: 0;
+    //left: 0;
+    //bottom: 0;
+    //height: 100%;
     z-index: 1;
-    display: none;
+    //display: none;
 }
 
-.card .card-reveal p {
-    color: rgba(0, 0, 0, 0.71);
-    margin: 20px;
+//.card .card-reveal p {
+//    color: rgba(0, 0, 0, 0.71);
+//    margin: 20px;
+//}
+
+.card-title-row {
+    height: 36px;
 }
 
 .btn-custom {
     background-color: transparent;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .repo-btn {
