@@ -1,4 +1,4 @@
-import { Component, ElementRef, Input, OnInit, ViewChild } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { faCode, faEllipsisV, faFileAlt, faImages, faNewspaper } from '@fortawesome/free-solid-svg-icons';
 import { Project } from '../../../shared/models/Project';
 import { faGithub, faGooglePlay, faYoutube } from '@fortawesome/free-brands-svg-icons';
@@ -10,9 +10,6 @@ import { faGithub, faGooglePlay, faYoutube } from '@fortawesome/free-brands-svg-
 })
 export class ProjectCardComponent implements OnInit {
     @Input() project!: Project;
-
-    @ViewChild('cardContent') cardContent!: ElementRef;
-    @ViewChild('cardReveal') cardReveal!: ElementRef;
 
     isExpanded = false;
     icons = {

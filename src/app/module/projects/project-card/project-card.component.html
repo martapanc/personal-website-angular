@@ -1,6 +1,6 @@
 <div class='project-card' data-tags=''>
     <div class='card shadow-sm'>
-        <div #cardContent class='card-content' [style.display]="isExpanded ? 'none' : 'block'">
+        <div class='card-content' [style.display]="isExpanded ? 'none' : 'block'">
             <img class='img-responsive' [src]='project.photo' [alt]='project.id' />
 
             <div class='d-flex flex-row justify-content-between my-2 card-title-row'>
@@ -18,10 +18,38 @@
             </div>
 
             <div class='card-action'>
-
+                <a *ngIf='project.repo' [href]='project.repo' class='repo-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faGithub'></fa-icon>
+                    <span class="ms-2">Check it out</span>
+                </a>
+                <a *ngIf='project.site' [href]='project.site' class='site-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faCode'></fa-icon>
+                    <span class="ms-2">Website</span>
+                </a>
+                <a *ngIf='project.report' [href]='project.report' class='report-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faFileAlt'></fa-icon>
+                    <span class="ms-2">Report</span>
+                </a>
+                <a *ngIf='project.article' [href]='project.article' class='report-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faNewspaper'></fa-icon>
+                    <span class="ms-2">See article</span>
+                </a>
+                <a *ngIf='project.video' [href]='project.video' class='video-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faYoutube'></fa-icon>
+                    <span class="ms-2">Video</span>
+                </a>
+                <a *ngIf='project.pics' [href]='project.pics' class='screenshot-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faImages'></fa-icon>
+                    <span class="ms-2">Screenshots</span>
+                </a>
+                <a *ngIf='project.link' [href]='project.link' class='play-link-btn' target='new_blank'>
+                    <fa-icon [icon]='icons.faGooglePlay'></fa-icon>
+                    <span class="ms-2">Try app</span>
+                </a>
             </div>
         </div>
-        <div #cardReveal class='card-reveal'
+
+        <div class='card-reveal'
              [ngClass]='project.id + "-card-reveal"'
              [style.display]="isExpanded ? 'block' : 'none'"
         >

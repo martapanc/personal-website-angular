@@ -3,7 +3,7 @@
 
 .project-card {
     .card-content, .card-reveal {
-        height: 300px;
+        height: 310px;
     }
 }
 
@@ -56,7 +56,7 @@
 }
 
 .card .card-action {
-    padding: 20px;
+    padding: 20px 10px;
     border-top: 1px solid rgba(160, 160, 160, 0.2);
 }
 .card .card-action a {
@@ -69,6 +69,7 @@
     -o-transition: color 0.3s ease;
     -ms-transition: color 0.3s ease;
     transition: color 0.3s ease;
+    text-decoration: none;
 }
 .card .card-action a:hover {
     color: #ddf3ff;

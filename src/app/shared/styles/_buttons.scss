@@ -40,7 +40,7 @@
   color: white;
 
   &:hover {
-    background: #865203;
+    background: #754803;
     border-color: transparent;
     color: white;
   }
@@ -77,4 +77,42 @@
     color: white;
     border-color: transparent;
   }
+}
+
+.btn-light {
+    background-color: #c2c2c2;
+    border-color: #c2c2c2;
+    color: #292929;
+}
+
+.btn-dark {
+    background-color: #14193B;
+    border-color: #161c41;
+    color: #efefef;
+
+    &:hover {
+        background-color: #1f2a5b;
+    }
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+
+    &:hover {
+        background-color: #bb2d3b;
+        border-color: #b02a37;
+    }
+}
+
+.btn-warning {
+    color: #000;
+    background-color: #ffc107;
+    border-color: #ffc107;
+
+    &:hover {
+        background-color: #ffca2c;
+        border-color: #ffc720;
+    }
 }

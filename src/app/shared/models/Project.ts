@@ -7,6 +7,8 @@ export interface Project {
     site?: string;
     article?: string;
     report?: string;
+    pics?: string;
+    link?: string;
     video?: string;
     tags: string[];
     text: string;

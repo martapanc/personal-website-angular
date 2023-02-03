@@ -26,8 +26,8 @@ export const ProjectData: Project[] = [
         site: 'https://werners-restaurant.herokuapp.com/',
         tags: ['java', 'js', 'db', 'web', 'uni'],
         text:
-            'A full **Restaurant Manager webapp** in **Java** is the final project my team developed for ' +
-            'the Internet & Mobile Services course: it allows customers to reserve a table or to book a ' +
+            'A full <strong>Restaurant Manager webapp</strong> in <strong>Java</strong> is the final project my team ' +
+            'developed for the Internet & Mobile Services course: it allows customers to reserve a table or to book a ' +
             'takeaway order, and the restaurant managers to verify the status of the reservations and orders, ' +
             "add and remove takeaway meals and check other employees' accounts, mostly in the form of CRUD " +
             "tables. <br/>I've recently made a v2 in Spring and deployed it on Heroku - " +
@@ -41,11 +41,12 @@ export const ProjectData: Project[] = [
         article: 'https://www.computer.org/csdl/magazine/cd/2018/06/mcd2018060058/17D45XwUAKp',
         tags: ['cloud', 'security', 'public', 'uni'],
         text:
-            'Disclosing personal data for a purpose not known by data subjects is a practice that the 2018 EU **General ' +
-            'Data Protection Regulation** (GDPR) is supposed to prevent. This article gives an overview of the major aspects ' +
-            'of GDPR related to provision, use, and maintenance of **cloud services and technologies**. <br/>The article ' +
-            'was written in collaboration between professors and associates of the faculties of Law and Computer Science ' +
-            'of the Free University of Bolzano, and was accepted by IEEE for publication.',
+            'Disclosing personal data for a purpose not known by data subjects is a practice that the 2018 EU ' +
+            '<strong>General Data Protection Regulation</strong> (GDPR) is supposed to prevent. This article gives ' +
+            'an overview of the major aspects of GDPR related to provision, use, and maintenance of ' +
+            '<strong>cloud services and technologies</strong>. <br/>The article was written in collaboration between ' +
+            'professors and associates of the faculties of Law and Computer Science of the Free University of Bolzano, ' +
+            'and was accepted by IEEE for publication.',
     },
     {
         title: 'Holiday request manager',
@@ -56,11 +57,11 @@ export const ProjectData: Project[] = [
         tags: ['js', 'web', 'work'],
         text:
             'I interned for three months at the <a href="https://www.ict-group.it/en/" target="_blank">ICT-Group</a> ' +
-            'as a web developer, and my task was to build an additional feature to the company’s **HR ' +
-            'management software**: a portal for the request and approval of the employee vacations, ' +
+            'as a web developer, and my task was to build an additional feature to the company’s ' +
+            '<strong>HR management software</strong>: a portal for the request and approval of the employee vacations, ' +
             'work permits, transfers and bank hours. The UI I developed consists of customisable calendars ' +
-            'and timesheets, which offer different views according to the role of the logged user ' +
-            '(employee or manager), and was built using **AngularJS** with the **Boostrap CSS** framework.',
+            'and timesheets, which offer different views according to the role of the logged user (employee or manager), ' +
+            'and was built using <strong>AngularJS</strong> with the <strong>Boostrap CSS</strong> framework.',
     },
     {
         title: 'Food Saver (GESS 2017)',
@@ -72,7 +73,7 @@ export const ProjectData: Project[] = [
         text:
             'I was selected (among 1200+ applications) to attend the <b>Global Entrepreneurship ' +
             "Summer School</b> (GESS) 2017 in Shanghai. This year's topic was &quot;Food&quot;, and our goal " +
-            'was to find solutions to related problems - such as food waste, obesity, hidden ' +
+            'was to find solutions to related problems — such as food waste, obesity, hidden ' +
             'hunger and food safety. My team designed a <b>mobile app</b> that connects users to ' +
             'supermarkets and local food suppliers: most food markets have an &quot;expiring soon&quot; ' +
             'section with aliments that cannot be displayed as too close to their expiration date. ' +
@@ -87,10 +88,10 @@ export const ProjectData: Project[] = [
         repo: 'https://github.com/martapanc/comp61511',
         tags: ['python', 'uni'],
         text:
-            "First complex project in **Python** - creating a clone of the **Unix' word count** tool, wc, based on re-engineering " +
-            'techniques and black-box testing and using only the Python Standard Library for the main functionality. ' +
-            'The result is a program that produces the same output as the original wc for all known input sequences and ' +
-            'file formats, including binary files.',
+            'First complex project in <strong>Python</strong> - creating a clone of the ' +
+            "<strong>Unix' word count</strong> tool, wc, based on re-engineering techniques and black-box testing and " +
+            'using only the Python Standard Library for the main functionality. The result is a program that produces ' +
+            'the same output as the original wc for all known input sequences and file formats, including binary files.',
     },
     {
         title: 'MSc Dissertation - Auto-grading',
@@ -102,7 +103,7 @@ export const ProjectData: Project[] = [
         text:
             'I really liked building a wc clone as part of the Software Engineering course of my MSc - less that it took ' +
             'months to receive a grade for it. However, it gave me the prompt for the project of my dissertation project: ' +
-            "designing a tool to **automatically run tests** for students' coding exercises, in order to ease the instructor's " +
+            "designing a tool to <strong>automatically run tests</strong> for students' coding exercises, in order to ease the instructor's " +
             'job when evaluating and grading them',
     },
     {
@@ -115,10 +116,11 @@ export const ProjectData: Project[] = [
         tags: ['java', 'uni', 'public'],
         text:
             'My BSc graduation project: I developed an heuristic algorithm that parses the so-called "SATD methods", ' +
-            'that is Java methods that are affected by "Self-Admitted Technical Debt", instances of **Technical Debt** that ' +
-            'the developers self-documented in the form of comments. The research then analysed how such methods evolve ' +
-            'from the moment the comment was introduced through Version Control and, based on the bugs reported in the ' +
-            "code's issue tracker, how the presence of technical debt affects the amount of bugs on average.",
+            'that is Java methods that are affected by "Self-Admitted Technical Debt", instances of ' +
+            '<strong>Technical Debt</strong> that the developers self-documented in the form of comments. The research ' +
+            'then analysed how such methods evolve from the moment the comment was introduced through Version Control ' +
+            "and, based on the bugs reported in the code's issue tracker, how the presence of technical debt affects" +
+            'the amount of bugs on average.',
     },
     {
         title: 'Library Manager',
@@ -129,7 +131,7 @@ export const ProjectData: Project[] = [
         tags: ['java', 'uni', 'db'],
         text:
             'I developed a Library Management app as final project for the Database Systems course of my BSc. Written ' +
-            'in Java and with a **PostgresSQL database**, it offers most functions a Library software is expected to have ' +
+            'in Java and with a <strong>PostgresSQL database</strong>, it offers most functions a Library software is expected to have ' +
             '- book search by author, title and other data, user account to check borrowed books and deadlines to return them, ' +
             'and librarian account used to insert new titles into the database and to register book loans and returns.',
     },
@@ -141,7 +143,7 @@ export const ProjectData: Project[] = [
         repo: 'https://github.com/martapanc/ItalianFiscalCodeCalculator',
         tags: ['java', 'uni'],
         text:
-            'Another **Java** app developed for my uni programming course. It allows the user to calculate their Italian tax code ' +
+            'Another <strong>Java</strong> app developed for my uni programming course. It allows the user to calculate their Italian tax code ' +
             '(<a href="https://en.wikipedia.org/wiki/Italian_fiscal_code" target="_blank">Codice Fiscale</a>) by ' +
             'entering their personal data.<br/>The app was designed to exploit various advanced features of the Java language, ' +
             'such Exception handling, Multithreading, Generics, Reflection, RegEx and Streams. Also, ' +
@@ -152,14 +154,14 @@ export const ProjectData: Project[] = [
         id: 'fiscalcode_app',
         year: 2020,
         photo: 'assets/images/projects/fc_app.webp',
-        site: 'https://play.google.com/store/apps/details?id=com.pancaldim.fiscalcode_app',
+        link: 'https://play.google.com/store/apps/details?id=com.pancaldim.fiscalcode_app',
         repo: 'https://github.com/martapanc/ItalianFiscalCodeCalculatorApp',
         tags: ['java', 'kotlin', 'uni', 'android', 'self'],
         text:
             'I started learning Android development recently and, in order to focus on the features of the mobile world, ' +
             "as well as on practising with Kotlin, I've been reusing the Java backend of the Fiscal Code calculator " +
             'I built in university. The app has currently been downloaded 50000+ times and has a rating of ~4.1. ' +
-            'Check out the result on the ' +
+            '<br/>Check out the result on the ' +
             '<a href="https://play.google.com/store/apps/details?id=com.pancaldim.fiscalcode_app">Play Store</a>!',
     },
     {
@@ -171,11 +173,12 @@ export const ProjectData: Project[] = [
         tags: ['hack', 'uni'],
         text:
             'A day of December 2014, four UniBZ computer science and design students were sent to the smallest town in South Tyrol, ' +
-            '**Glorenza-Glurns**, with a challenge from their professors: find innovative ideas to **improve the life of a mountain village**, ' +
-            'often isolated and closed in its daily life, which would offer history and attractions but fails to entice tourists to stay. ' +
-            'Our solution, winner of the contest between UniBZ and other Italian universities, was to create a brand for Glorenza and a ' +
-            'consortium for the towns in the area - a brand to promote the history, the beauty of the landscapes and the tastiness of the ' +
-            'food and that tourists get to know and trust.',
+            '<strong>Glorenza-Glurns</strong>, with a challenge from their professors: find innovative ideas to ' +
+            '<strong>improve the life of a mountain village</strong>, often isolated and closed in its daily life, ' +
+            'which would offer history and attractions but fails to entice tourists to stay. Our solution, winner of ' +
+            'the contest between UniBZ and other Italian universities, was to create a brand for Glorenza and a ' +
+            'consortium for the towns in the area - a brand to promote the history, the beauty of the landscapes and ' +
+            'the tastiness of the food and that tourists get to know and trust.',
     },
     {
         title: 'Project "EMMA"',
@@ -187,7 +190,7 @@ export const ProjectData: Project[] = [
         text:
             '"Inventing by recycling" was the theme of the final project of my Management Engineering course at ' +
             'University of Bolzano: starting from the collection of old everyday objects, my team used a lamp container, ' +
-            'a LED matrix and a **Raspberry Pi** to build a wall panel that displays scrolling messages and pictures. ' +
+            'a LED matrix and a <strong>Raspberry Pi</strong> to build a wall panel that displays scrolling messages and pictures. ' +
             'The software was a simple bash script that converted images and text into a suitable format and displayed ' +
             'it on the matrix.',
     },
@@ -199,20 +202,20 @@ export const ProjectData: Project[] = [
         repo: 'https://github.com/martapanc/react-gh-pages',
         tags: ['web', 'self'],
         text:
-            "This very website :) <br/> Built with ReactJS and later migrated to Typescript, it's also a chance to play around with my web " +
-            'development skills and experiment with front-end technologies.',
+            "This very website :) <br/> Built with ReactJS and later migrated to Typescript, it's also a chance to " +
+            'play around with my web development skills and experiment with front-end technologies.',
     },
     {
         title: 'Rentalcars.com Premium',
         id: 'premium',
         year: 2019,
         photo: 'assets/images/projects/noodle.webp',
-        report: 'assets/images/projects/noodle-pics.pdf',
+        pics: 'assets/images/projects/noodle-pics.pdf',
         tags: ['web', 'work'],
         text:
-            'As a part of the Graduate Scheme at Booking.com, I joined the team that develops the **"Premium" insurance product**, ' +
+            'As a part of the Graduate Scheme at Booking.com, I joined the team that develops the <strong>"Premium" insurance product</strong>, ' +
             'which offers exclusive benefits to the customer such as skipping the line at the car pickup counter, low deposit ' +
-            'and a dedicated helpline to deal with claims. We built the UI in **React**, developing various components (a comparison ' +
+            'and a dedicated helpline to deal with claims. We built the UI in <strong>React</strong>, developing various components (a comparison ' +
             'of the available insurance options for the car details page, a few upsell banners and information sections) that we then ' +
             'integrated in the main webapp.',
     },
@@ -226,7 +229,7 @@ export const ProjectData: Project[] = [
         text:
             'What to do when your energy supplier offers a live balance of the energy usage in your account and you wish to monitor it ' +
             "to know how much you're spending, but at the same time you don't want to login every few hours? For me it was the perfect " +
-            "chance to learn **web scraping** with Python. The result is a script that logs in to my account, calls the supplier's API " +
+            "chance to learn <strong>web scraping</strong> with Python. The result is a script that logs in to my account, calls the supplier's API " +
             'at the desired time intervals and saves the results. A simple task, but a meaningful achievement and a fun way to apply coding ' +
             'skills to a real-life problem.',
     },
@@ -256,9 +259,9 @@ export const ProjectData: Project[] = [
         text:
             "I never want to miss a live show from my favourite Twitch streamers, and I'm used to grouping notifications " +
             'on Slack channels as a way to organise them. After testing services like Zapier and IFTTT and getting quite dissatisfied ' +
-            'with the licence limitations or the lack of customisation, I decided to write my own **cron job in Python**: it ' +
-            'queries the **Twitch API** to find which of the streamers I follow goes live and then connects to a **Slack webhook**, ' +
-            'displaying a nice-looking message. <br/>Never gonna miss a show again!',
+            'with the licence limitations or the lack of customisation, I decided to write my own <strong>cron job in Python</strong>: it ' +
+            'queries the <strong>Twitch API</strong> to find which of the streamers I follow goes live and then connects to a ' +
+            '<strong>Slack webhook</strong>, displaying a nice-looking message. <br/>Never gonna miss a show again!',
     },
     {
         title: 'All-Star Advent of Code',
@@ -280,7 +283,7 @@ export const ProjectData: Project[] = [
         repo: 'https://github.com/martapanc/pigeon-family-cam',
         tags: ['web', 'self'],
         text:
-            'When a couple of pigeons nests on your balcony, what could be better than installing a RasPi webcam ' +
-            'and broadcasting their lives on the internet?',
+            'When a couple of pigeons nests on your balcony, what could be better than installing a ' +
+            '<strong>RasPi</strong> webcam and broadcasting their lives on the internet?',
     },
 ];
