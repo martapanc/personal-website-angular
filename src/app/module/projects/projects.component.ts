@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 import { ProjectData } from './project-card/project-data';
 
 @Component({
@@ -8,4 +8,11 @@ import { ProjectData } from './project-card/project-data';
 })
 export class ProjectsComponent {
     projectData = ProjectData;
+
+    filterTags = [...new Set(this.projectData.map(entry => entry.tags).reduce((acc, value) => acc.concat(value), []))];
+
+    applyFilter(event: Event) {
+        const button = event.target as HTMLInputElement;
+        const filterId = button.id.replace('-filter-btn', '');
+    }
 }
