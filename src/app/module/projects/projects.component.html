@@ -1,1 +1,112 @@
-<p>projects works!</p>
+<div class='single-page'>
+    <app-header [title]='"My Projects"'></app-header>
+
+    <section class='project-section p-3 p-lg-3'>
+        <div class='container'>
+            <div class='row'>
+                <div class='item col-12'>
+                    <span>
+                        <b>Filter by: &emsp;</b>
+                    </span>
+
+                    <div class='btn-group mx-2' role='group' aria-label='Language filter buttons'>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='java-filter-btn'
+                            class='btn btn-danger btn-sm filter-btn'
+                        >
+                            Java
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='kotlin-filter-btn'
+                            class='btn btn-primary3 btn-sm filter-btn'
+                        >
+                            Kotlin
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='python-filter-btn'
+                            class='btn btn-primary2 btn-sm filter-btn'
+                        >
+                            Python
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='android-filter-btn'
+                            class='btn btn-android btn-sm filter-btn'
+                        >
+                            Android
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='web-filter-btn'
+                            class='btn btn-warning btn-sm filter-btn'
+                        >
+                            Web
+                        </button>
+                    </div>
+
+                    <div class='btn-group mx-2' role='group' aria-label='Project type filter buttons'>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='self-filter-btn'
+                            class='btn btn-orange btn-sm filter-btn'
+                        >
+                            Personal
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='uni-filter-btn'
+                            class='btn btn-light btn-sm filter-btn'
+                        >
+                            University
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='work-filter-btn'
+                            class='btn btn-dark btn-sm filter-btn'
+                        >
+                            Work
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='public-filter-btn'
+                            class='btn btn-green btn-sm filter-btn'
+                        >
+                            Publications
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='hack-filter-btn'
+                            class='btn btn-info btn-info2 btn-sm filter-btn'
+                        >
+                            Hackathon
+                        </button>
+                    </div>
+
+                    <div class='btn-group mx-2' role='group' aria-label='Language filter buttons'>
+                        <button
+                            (click)='resetFilters()'
+                            id='all-filter-btn'
+                            class='btn btn-white btn-sm filter-btn'
+                        >
+                            Show all
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class='row'>
+                <ng-container *ngFor='let project of projectData'>
+                    <app-project-card
+                        class='col-12 col-md-4 col-lg-4'
+                        *ngIf='activeFiltersIncludeTags(project.tags)'
+                        [project]='project'
+                    ></app-project-card>
+                </ng-container>
+            </div>
+        </div>
+    </section>
+
+    <Section></Section>
+</div>

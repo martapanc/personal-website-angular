@@ -54,6 +54,7 @@
 
     .single-page {
         width: calc(100% - 280px);
+        min-height: calc(100vh - 45px);
     }
 }
 
