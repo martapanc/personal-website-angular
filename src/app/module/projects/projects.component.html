@@ -4,12 +4,12 @@
     <section class='project-section p-3 p-lg-3'>
         <div class='container'>
             <div class='row'>
-                <div class='item col-12'>
-                    <span>
-                        <b>Filter by: &emsp;</b>
-                    </span>
+                <div class='item d-lg-flex flex-lg-row'>
+                    <div class="mb-2">
+                        <h5 class='mb-0 mt-1 me-3'>Filter by:</h5>
+                    </div>
 
-                    <div class='btn-group mx-2' role='group' aria-label='Language filter buttons'>
+                    <div class='btn-group mx-2 mb-1' role='group' aria-label='Language filter buttons'>
                         <button
                             (click)='applyFilter($event)'
                             id='java-filter-btn'
@@ -47,7 +47,7 @@
                         </button>
                     </div>
 
-                    <div class='btn-group mx-2' role='group' aria-label='Project type filter buttons'>
+                    <div class='btn-group mx-2 mb-1 responsive-hide' role='group' aria-label='Project type filter buttons'>
                         <button
                             (click)='applyFilter($event)'
                             id='self-filter-btn'
@@ -85,7 +85,49 @@
                         </button>
                     </div>
 
-                    <div class='btn-group mx-2' role='group' aria-label='Language filter buttons'>
+                    <div class='btn-group mx-2 mb-1 responsive-show' role='group' aria-label='Project type filter buttons'>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='self-filter-btn-mobile'
+                            class='btn btn-orange btn-sm filter-btn'
+                        >
+                            Personal
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='uni-filter-btn-mobile'
+                            class='btn btn-light btn-sm filter-btn'
+                        >
+                            University
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='work-filter-btn-mobile'
+                            class='btn btn-dark btn-sm filter-btn'
+                        >
+                            Work
+                        </button>
+                    </div>
+                    <div class='btn-group mx-2 mb-3 responsive-show' role='group' aria-label='Project type filter buttons'>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='public-filter-btn-mobile'
+                            class='btn btn-green btn-sm filter-btn'
+                        >
+                            Publications
+                        </button>
+                        <button
+                            (click)='applyFilter($event)'
+                            id='hack-filter-btn-mobile'
+                            class='btn btn-info btn-info2 btn-sm filter-btn'
+                        >
+                            Hackathon
+                        </button>
+                    </div>
+
+                    <br class='responsive-show'/>
+
+                    <div class='btn-group mx-2 mb-1' role='group' aria-label='Language filter buttons'>
                         <button
                             (click)='resetFilters()'
                             id='all-filter-btn'
