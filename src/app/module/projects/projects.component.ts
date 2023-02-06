@@ -23,7 +23,7 @@ export class ProjectsComponent {
 
     applyFilter(event: Event) {
         const button = event.target as HTMLInputElement;
-        const filterId = button.id.replace('-filter-btn', '');
+        const filterId = button.id.replace('-filter-btn', '').replace('-mobile', '');
         this.activeFilters = [filterId];
     }
 

@@ -5,7 +5,7 @@ export const ProjectData: Project[] = [
         title: 'Team toolbar plugin',
         id: 'bitbar',
         year: 2020,
-        photo: 'assets/images/projects/bitbar.webp',
+        photo: 'assets/images/projects/xbar.webp',
         repo: 'https://github.com/martapanc/BitBar-distrib',
         tags: ['python', 'work'],
         text:
