@@ -1,7 +1,7 @@
 <div class='single-page'>
     <app-header [title]='"My Projects"'></app-header>
 
-    <section class='project-section p-3 p-lg-3'>
+    <section class='project-section p-lg-3'>
         <div class='container'>
             <div class='row'>
                 <div class='item d-lg-flex flex-lg-row'>
@@ -141,7 +141,7 @@
             <div class='row'>
                 <ng-container *ngFor='let project of projectData'>
                     <app-project-card
-                        class='col-12 col-md-4 col-lg-4'
+                        class='col-12 col-md-6 col-lg-4'
                         *ngIf='activeFiltersIncludeTags(project.tags)'
                         [project]='project'
                     ></app-project-card>
