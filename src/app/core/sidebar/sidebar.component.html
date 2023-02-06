@@ -34,16 +34,18 @@
                     </div>
 
                     <!-- Social Media links -->
-                    <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
-                        <app-social-media-link class="list-inline-item"
-                                               *ngFor="let link of socialMediaLinks"
-                                               [socialMediaLink]="link">
-                        </app-social-media-link>
-                    </ul>
+                    <div class='d-flex flex-row'>
+                        <ul class="social-list list-inline py-3 mx-auto d-flex flex-row">
+                            <app-social-media-link class="list-inline-item"
+                                                   *ngFor="let link of socialMediaLinks"
+                                                   [socialMediaLink]="link">
+                            </app-social-media-link>
+                        </ul>
+                    </div>
                 </div>
 
                 <!-- Menu items -->
-                <div class="mb-3">
+                <div class="d-flex flex-row justify-content-center mb-3">
                     <ul class="navbar-nav flex-column text-start">
                         <app-menu-item
                             *ngFor="let item of menuItems"
