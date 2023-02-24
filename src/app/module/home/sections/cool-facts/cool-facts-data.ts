@@ -31,8 +31,8 @@ export const CoolFactsData: CoolFact[] = [
         title: 'Karate',
         text:
             'I have a brown belt in karate, which I practised for 6 years 🥋 &nbsp;I took part in a few local competitions, including ' +
-            'the <a href="http://www.fondazionesport.it/Sezione.jsp?idSezione=50&visscadute=1" target="_blank">"Tricolore Youth Olympic Games"</a>' +
-            " in Reggio Emilia... so be careful when you're around me 😉",
+            'the <a href="https://web.archive.org/web/20230210145204/http://www.fondazionesport.it/Sezione.jsp?idSezione=50&visscadute=1" target="_blank">' +
+            '"Tricolore Youth Olympic Games"</a> in Reggio Emilia... so be careful when you\'re around me 😉',
     },
     {
         title: 'Covid',

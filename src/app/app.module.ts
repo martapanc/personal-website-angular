@@ -27,13 +27,25 @@ import { BookSectionComponent } from './module/home/sections/fun/book-section/bo
 import { BookComponent } from './module/home/sections/fun/book/book.component';
 import { CoolFactsComponent } from './module/home/sections/cool-facts/cool-facts.component';
 import { ProjectCardComponent } from './module/projects/project-card/project-card.component';
+import { Angular2ImageGalleryModule } from 'angular2-image-gallery';
+import { HammerModule } from '@angular/platform-browser';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
 }
 
 @NgModule({
-    imports: [CoreModule, AppRoutingModule, FontAwesomeModule, NgForOf, NgClass, SlicePipe, NgIf],
+    imports: [
+        CoreModule,
+        AppRoutingModule,
+        FontAwesomeModule,
+        NgForOf,
+        NgClass,
+        SlicePipe,
+        NgIf,
+        Angular2ImageGalleryModule,
+        HammerModule,
+    ],
     declarations: [
         AppComponent,
         HomeComponent,

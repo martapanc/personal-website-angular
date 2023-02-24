@@ -1,1 +1,15 @@
-<p>food works!</p>
+<div class="single-page">
+    <app-header [title]='"Adventures in the kitchen"'></app-header>
+
+    <div>
+        <div class="container px-3 px-lg-5">
+            <gallery
+                [flexBorderSize]="10"
+                [flexImageSize]="8"
+                [maxRowsPerPage]="100">
+            </gallery>
+        </div>
+    </div>
+
+    <Section></Section>
+</div>
