@@ -5,4 +5,8 @@ import { Component } from '@angular/core';
     templateUrl: './food.component.html',
     styleUrls: ['../home/home.component.scss'],
 })
-export class FoodComponent {}
+export class FoodComponent {
+    flexBorderSize = 10;
+    flexImageSize = 10;
+    maxRowsPerPage = 100;
+}
