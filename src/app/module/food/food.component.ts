@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class FoodComponent {
     flexBorderSize = 10;
-    flexImageSize = 10;
+    flexImageSize = 11;
     maxRowsPerPage = 100;
 }

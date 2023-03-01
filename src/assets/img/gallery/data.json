@@ -926,7 +926,7 @@
     },
     {
         "name": "piadine.webp",
-        "alt": "Piadine with cheese, rocket and lettuce",
+        "alt": "Piadine with cheese and rocket",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/piadine.webp",
@@ -1725,7 +1725,7 @@
     },
     {
         "name": "pancakes_strawberry.webp",
-        "alt": "Pancakes with strawberries 🍓🥞🍓",
+        "alt": "Pancakes with strawberries 🥞 🍓",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pancakes_strawberry.webp",
@@ -1893,7 +1893,7 @@
     },
     {
         "name": "couscous.webp",
-        "alt": "couscous",
+        "alt": "Couscous",
         "date": "2022:08:16 21:19:58",
         "resolutions": {
             "preview_xxs": {
