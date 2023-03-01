@@ -2420,6 +2420,13 @@
   resolved "https://verdaccio.mein-recycling.de/@leichtgewicht%2fip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
+"@martapanc/angular2-image-gallery@15.1.4":
+  version "15.1.4"
+  resolved "https://npm.pkg.github.com/download/@martapanc/angular2-image-gallery/15.1.4/d942762589044685a14e740309e669a95bc7a13a#d942762589044685a14e740309e669a95bc7a13a"
+  integrity sha512-lSBwWApCOqQiI/6LigrJZW5gJAJdsgN2FBvn3lTW2QcdYVppcbrbGC+mg09S6pr1RXcMNRBRnUQOApXzMxfB1A==
+  dependencies:
+    tslib "^2.3.0"
+
 "@material/animation@15.0.0-canary.684e33d25.0":
   version "15.0.0-canary.684e33d25.0"
   resolved "https://verdaccio.mein-recycling.de/@material%2fanimation/-/animation-15.0.0-canary.684e33d25.0.tgz#d42ecdd31da5635ff5b44a53c6fc8746de7f5a5a"
@@ -4109,13 +4116,6 @@ ajv@^6.10.0, ajv@^6.12.3, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.12.6:
     fast-json-stable-stringify "^2.0.0"
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
-
-angular2-image-gallery@^15.0.0:
-  version "15.0.0"
-  resolved "https://verdaccio.mein-recycling.de/angular2-image-gallery/-/angular2-image-gallery-15.0.0.tgz#0b4d97a370628bccc758c455280df17c56d12afc"
-  integrity sha512-NmSpmmU4gNhI/nRsD5tq0lIJu+yKyYpocJJ3BJOgeAvMx2biegdrRIw84ZUYV7x0/VN29j/K2OkiSaTgAuT77g==
-  dependencies:
-    tslib "^2.3.0"
 
 ansi-align@^3.0.0:
   version "3.0.1"

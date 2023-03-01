@@ -27,7 +27,7 @@ import { BookSectionComponent } from './module/home/sections/fun/book-section/bo
 import { BookComponent } from './module/home/sections/fun/book/book.component';
 import { CoolFactsComponent } from './module/home/sections/cool-facts/cool-facts.component';
 import { ProjectCardComponent } from './module/projects/project-card/project-card.component';
-import { Angular2ImageGalleryModule } from 'angular2-image-gallery';
+import { Angular2ImageGalleryModule } from '@martapanc/angular2-image-gallery';
 import { HammerModule } from '@angular/platform-browser';
 
 export function HttpLoaderFactory(http: HttpClient) {
@@ -45,6 +45,7 @@ export function HttpLoaderFactory(http: HttpClient) {
         NgIf,
         Angular2ImageGalleryModule,
         HammerModule,
+        Angular2ImageGalleryModule,
     ],
     declarations: [
         AppComponent,

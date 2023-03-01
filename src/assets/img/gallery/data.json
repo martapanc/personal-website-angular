@@ -1,6 +1,7 @@
 [
     {
         "name": "sushi_6.webp",
+        "alt": "Veg nigiri",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/sushi_6.webp",
@@ -42,6 +43,7 @@
     },
     {
         "name": "cheesecakes.webp",
+        "alt": "Mini cheesecakes 🇺🇸",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/cheesecakes.webp",
@@ -83,6 +85,7 @@
     },
     {
         "name": "falafels.webp",
+        "alt": "Falafels 🧆",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/falafels.webp",
@@ -123,48 +126,8 @@
         "dominantColor": "#734b2b"
     },
     {
-        "name": "spring_rolls.webp",
-        "resolutions": {
-            "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/spring_rolls.webp",
-                "width": 281,
-                "height": 375
-            },
-            "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/spring_rolls.webp",
-                "width": 576,
-                "height": 768
-            },
-            "preview_s": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
-                "width": 810,
-                "height": 1080
-            },
-            "preview_m": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
-                "width": 1200,
-                "height": 1600
-            },
-            "preview_l": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
-                "width": 1620,
-                "height": 2160
-            },
-            "preview_xl": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
-                "width": 2160,
-                "height": 2880
-            },
-            "raw": {
-                "path": "assets/img/gallery/raw/spring_rolls.webp",
-                "width": 960,
-                "height": 1280
-            }
-        },
-        "dominantColor": "#724f2d"
-    },
-    {
         "name": "bruschette.webp",
+        "alt": "Bruschette",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/bruschette.webp",
@@ -206,6 +169,7 @@
     },
     {
         "name": "sushi_4.webp",
+        "alt": "More sushi 🍱",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/sushi_4.webp",
@@ -247,6 +211,7 @@
     },
     {
         "name": "crumpets.webp",
+        "alt": "Crumpets 🇬🇧",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/crumpets.webp",
@@ -288,6 +253,7 @@
     },
     {
         "name": "beetroot_dip.webp",
+        "alt": "Beetroot dip",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/beetroot_dip.webp",
@@ -328,7 +294,50 @@
         "dominantColor": "#834945"
     },
     {
+        "name": "spring_rolls.webp",
+        "alt": "Spring rolls 🇨🇳",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "assets/img/gallery/preview_xxs/spring_rolls.webp",
+                "width": 281,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "assets/img/gallery/preview_xs/spring_rolls.webp",
+                "width": 576,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "width": 810,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "width": 1200,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "width": 1620,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "width": 2160,
+                "height": 2880
+            },
+            "raw": {
+                "path": "assets/img/gallery/raw/spring_rolls.webp",
+                "width": 960,
+                "height": 1280
+            }
+        },
+        "dominantColor": "#724f2d"
+    },
+    {
         "name": "hotdogs.webp",
+        "alt": "Hot-dogs with fries and onions",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/hotdogs.webp",
@@ -370,6 +379,7 @@
     },
     {
         "name": "tartiflette.webp",
+        "alt": "Tartiflette (dish from Savoy with lots of potatoes and cheese)",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/tartiflette.webp",
@@ -411,6 +421,7 @@
     },
     {
         "name": "curry_rice.webp",
+        "alt": "Curry rice 🇮🇳",
         "date": "2022:04:19 20:32:58",
         "resolutions": {
             "preview_xxs": {
@@ -453,6 +464,7 @@
     },
     {
         "name": "falafels_2.webp",
+        "alt": "Falafels in a tomato and egg sauce",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/falafels_2.webp",
@@ -494,6 +506,7 @@
     },
     {
         "name": "baguette_3.webp",
+        "alt": "New baguette attempt",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/baguette_3.webp",
@@ -535,6 +548,7 @@
     },
     {
         "name": "raclette.webp",
+        "alt": "Raclette 🧀 🇫🇷",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/raclette.webp",
@@ -576,6 +590,7 @@
     },
     {
         "name": "crozets.webp",
+        "alt": "Crozets (flat square-shaped pasta from the Savoy region)",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/crozets.webp",
@@ -617,6 +632,7 @@
     },
     {
         "name": "bicolor_pizza.webp",
+        "alt": "Bicolor Pizza",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/bicolor_pizza.webp",
@@ -658,6 +674,7 @@
     },
     {
         "name": "pasta_2.webp",
+        "alt": "Shaped pasta",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pasta_2.webp",
@@ -699,6 +716,7 @@
     },
     {
         "name": "spaetzle.webp",
+        "alt": "Spätzle 🇦🇹",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/spaetzle.webp",
@@ -740,6 +758,7 @@
     },
     {
         "name": "gnocco_fritto.webp",
+        "alt": "Gnocco fritto 🇮🇹",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/gnocco_fritto.webp",
@@ -781,6 +800,7 @@
     },
     {
         "name": "nachos.webp",
+        "alt": "(attempt at) Nachos 🇲🇽",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/nachos.webp",
@@ -822,6 +842,7 @@
     },
     {
         "name": "mozzarella_in_carrozza.webp",
+        "alt": "Mozzarella in carrozza",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/mozzarella_in_carrozza.webp",
@@ -863,6 +884,7 @@
     },
     {
         "name": "calzone.webp",
+        "alt": "Calzone 🍕",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/calzone.webp",
@@ -904,6 +926,7 @@
     },
     {
         "name": "piadine.webp",
+        "alt": "Piadine with cheese and rocket",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/piadine.webp",
@@ -945,6 +968,7 @@
     },
     {
         "name": "sushi_5.webp",
+        "alt": "Sushi 🍣",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/sushi_5.webp",
@@ -986,6 +1010,7 @@
     },
     {
         "name": "wraps.webp",
+        "alt": "Veg wraps 🇬🇷",
         "date": "2022:04:18 20:24:40",
         "resolutions": {
             "preview_xxs": {
@@ -1028,6 +1053,7 @@
     },
     {
         "name": "cheese_dip.webp",
+        "alt": "Cheese dip 🧀",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/cheese_dip.webp",
@@ -1069,6 +1095,7 @@
     },
     {
         "name": "flammenkuche.webp",
+        "alt": "Flammekueche 🇫🇷 (culturally appropriated pizza from Alsace)",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/flammenkuche.webp",
@@ -1110,6 +1137,7 @@
     },
     {
         "name": "burgers.webp",
+        "alt": "Burgers with homemade fries and onion rings",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/burgers.webp",
@@ -1151,6 +1179,7 @@
     },
     {
         "name": "zucchini.webp",
+        "alt": "Baked courgettes",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/zucchini.webp",
@@ -1192,6 +1221,7 @@
     },
     {
         "name": "garlic_bread.webp",
+        "alt": "Garlic bread",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/garlic_bread.webp",
@@ -1233,6 +1263,7 @@
     },
     {
         "name": "quiche.webp",
+        "alt": "Quiche 🇫🇷",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/quiche.webp",
@@ -1274,6 +1305,7 @@
     },
     {
         "name": "flatbread.webp",
+        "alt": "Garlic flatbread with spices",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/flatbread.webp",
@@ -1315,6 +1347,7 @@
     },
     {
         "name": "burger_2.webp",
+        "alt": "Burgers and breaded mozzarella balls",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/burger_2.webp",
@@ -1356,6 +1389,7 @@
     },
     {
         "name": "strudel.webp",
+        "alt": "Apfelstrüdel 🇩🇪",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/strudel.webp",
@@ -1397,6 +1431,7 @@
     },
     {
         "name": "pancakes.webp",
+        "alt": "Fluffy pancakes 🥞",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pancakes.webp",
@@ -1438,6 +1473,7 @@
     },
     {
         "name": "arancini.webp",
+        "alt": "Arancini siciliani",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/arancini.webp",
@@ -1479,6 +1515,7 @@
     },
     {
         "name": "pizza_1.webp",
+        "alt": "Pizza 🍕",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pizza_1.webp",
@@ -1520,6 +1557,7 @@
     },
     {
         "name": "gyros.webp",
+        "alt": "Gyros with homemade fries",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/gyros.webp",
@@ -1561,6 +1599,7 @@
     },
     {
         "name": "pandoro.webp",
+        "alt": "Pandoro 🇮🇹",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pandoro.webp",
@@ -1602,6 +1641,7 @@
     },
     {
         "name": "gyros_2.webp",
+        "alt": "Gyros 🇬🇷",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/gyros_2.webp",
@@ -1643,6 +1683,7 @@
     },
     {
         "name": "pizza_4.webp",
+        "alt": "Pizza #4",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pizza_4.webp",
@@ -1684,6 +1725,7 @@
     },
     {
         "name": "pancakes_strawberry.webp",
+        "alt": "Pancakes with strawberries 🥞 🍓",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pancakes_strawberry.webp",
@@ -1725,6 +1767,7 @@
     },
     {
         "name": "pizza_3.webp",
+        "alt": "Pizza #3",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pizza_3.webp",
@@ -1766,6 +1809,7 @@
     },
     {
         "name": "flatbread_fries.webp",
+        "alt": "Flatbread with fries",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/flatbread_fries.webp",
@@ -1807,6 +1851,7 @@
     },
     {
         "name": "burgers_3.webp",
+        "alt": "Burgers with mozzarella sticks and fried onions",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/burgers_3.webp",
@@ -1848,6 +1893,7 @@
     },
     {
         "name": "couscous.webp",
+        "alt": "Couscous",
         "date": "2022:08:16 21:19:58",
         "resolutions": {
             "preview_xxs": {
@@ -1890,6 +1936,7 @@
     },
     {
         "name": "halloumi.webp",
+        "alt": "Fried halloumi, puff pastry rolls and salad 🇨🇾",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/halloumi.webp",
@@ -1931,6 +1978,7 @@
     },
     {
         "name": "tagliatelle.webp",
+        "alt": "Homemade tagliatelle",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/tagliatelle.webp",
@@ -1972,6 +2020,7 @@
     },
     {
         "name": "baguette_2.webp",
+        "alt": "Baguette pieces for cheese fondue",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/baguette_2.webp",
@@ -2013,6 +2062,7 @@
     },
     {
         "name": "pasta_bake.webp",
+        "alt": "Pasta bake",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pasta_bake.webp",
@@ -2054,6 +2104,7 @@
     },
     {
         "name": "flammenkueche_2.webp",
+        "alt": "Flammekueche #2",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/flammenkueche_2.webp",
@@ -2095,6 +2146,7 @@
     },
     {
         "name": "potato_croissants.webp",
+        "alt": "Cheese-filled potato croissants 😋",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/potato_croissants.webp",
@@ -2136,6 +2188,7 @@
     },
     {
         "name": "sushi_1.webp",
+        "alt": "Never enough sushi 🇯🇵",
         "date": "2022:05:06 20:57:10",
         "resolutions": {
             "preview_xxs": {
@@ -2178,6 +2231,7 @@
     },
     {
         "name": "sushi_3.webp",
+        "alt": "Veg nigiri",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/sushi_3.webp",
@@ -2219,6 +2273,7 @@
     },
     {
         "name": "pastabake_2.webp",
+        "alt": "More pasta bake",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pastabake_2.webp",
@@ -2260,6 +2315,7 @@
     },
     {
         "name": "nigiri.webp",
+        "alt": "Salmon nigiri 🍣",
         "date": "2022:05:06 20:56:37",
         "resolutions": {
             "preview_xxs": {
@@ -2301,7 +2357,50 @@
         "dominantColor": "#937e6a"
     },
     {
+        "name": "pierogi.webp",
+        "alt": "Pierogi 🇵🇱",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "assets/img/gallery/preview_xxs/pierogi.webp",
+                "width": 500,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "assets/img/gallery/preview_xs/pierogi.webp",
+                "width": 1024,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "width": 1440,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "width": 2133,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "width": 2880,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "width": 3840,
+                "height": 2880
+            },
+            "raw": {
+                "path": "assets/img/gallery/raw/pierogi.webp",
+                "width": 1280,
+                "height": 960
+            }
+        },
+        "dominantColor": "#ab7844"
+    },
+    {
         "name": "nut_tarte.webp",
+        "alt": "Nut tart",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/nut_tarte.webp",
@@ -2343,6 +2442,7 @@
     },
     {
         "name": "focaccia.webp",
+        "alt": "Focaccia (flatbread)",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/focaccia.webp",
@@ -2384,6 +2484,7 @@
     },
     {
         "name": "veg_soup.webp",
+        "alt": "Veg soup",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/veg_soup.webp",
@@ -2425,6 +2526,7 @@
     },
     {
         "name": "farfalle.webp",
+        "alt": "Colourful farfalle 🦋",
         "date": "2022:08:21 23:12:43",
         "resolutions": {
             "preview_xxs": {
@@ -2467,6 +2569,7 @@
     },
     {
         "name": "pizza_2.webp",
+        "alt": "Pizza #2",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pizza_2.webp",
@@ -2508,6 +2611,7 @@
     },
     {
         "name": "pierogi_2.webp",
+        "alt": "Pierogi #2",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/pierogi_2.webp",
@@ -2548,48 +2652,8 @@
         "dominantColor": "#a57a54"
     },
     {
-        "name": "pierogi.webp",
-        "resolutions": {
-            "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pierogi.webp",
-                "width": 500,
-                "height": 375
-            },
-            "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pierogi.webp",
-                "width": 1024,
-                "height": 768
-            },
-            "preview_s": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
-                "width": 1440,
-                "height": 1080
-            },
-            "preview_m": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
-                "width": 2133,
-                "height": 1600
-            },
-            "preview_l": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
-                "width": 2880,
-                "height": 2160
-            },
-            "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
-                "width": 3840,
-                "height": 2880
-            },
-            "raw": {
-                "path": "assets/img/gallery/raw/pierogi.webp",
-                "width": 1280,
-                "height": 960
-            }
-        },
-        "dominantColor": "#ab7844"
-    },
-    {
         "name": "tortelli.webp",
+        "alt": "Tortelli",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/tortelli.webp",
@@ -2631,6 +2695,7 @@
     },
     {
         "name": "biscuits.webp",
+        "alt": "Ginger biscuits with sugar paste decorations",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/biscuits.webp",
@@ -2672,6 +2737,7 @@
     },
     {
         "name": "croque_monsieur_2.webp",
+        "alt": "Croque monsieur #2",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/croque_monsieur_2.webp",
@@ -2713,6 +2779,7 @@
     },
     {
         "name": "burger_salad.webp",
+        "alt": "Halloumi burger with salad",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/burger_salad.webp",
@@ -2754,6 +2821,7 @@
     },
     {
         "name": "bliny.webp",
+        "alt": "Bliny 🇷🇺",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/bliny.webp",
@@ -2795,6 +2863,7 @@
     },
     {
         "name": "mozzarella_in_carrozza_2.webp",
+        "alt": "More mozzarella in carrozza 😋",
         "date": "2022:03:31 20:32:58",
         "resolutions": {
             "preview_xxs": {
@@ -2837,6 +2906,7 @@
     },
     {
         "name": "baguette_1.webp",
+        "alt": "Homemade baguettes 🥖",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/baguette_1.webp",
@@ -2878,6 +2948,7 @@
     },
     {
         "name": "french_pancakes.webp",
+        "alt": "French pancakes 🇫🇷",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/french_pancakes.webp",
@@ -2919,6 +2990,7 @@
     },
     {
         "name": "gnocchi.webp",
+        "alt": "Potato gnocchi",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/gnocchi.webp",
@@ -2960,6 +3032,7 @@
     },
     {
         "name": "raviolini.webp",
+        "alt": "Ravioles du Dauphiné",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/raviolini.webp",
@@ -3001,6 +3074,7 @@
     },
     {
         "name": "cappelletti.webp",
+        "alt": "Cappelletti 😍",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/cappelletti.webp",
@@ -3042,6 +3116,7 @@
     },
     {
         "name": "risotto.webp",
+        "alt": "Risotto with red chicory and gorgonzola",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/risotto.webp",
@@ -3083,6 +3158,7 @@
     },
     {
         "name": "croque_monsieur.webp",
+        "alt": "Croque monsieur 🇫🇷",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/croque_monsieur.webp",
@@ -3124,6 +3200,7 @@
     },
     {
         "name": "toast_salad.webp",
+        "alt": "Sandwiches + salad",
         "resolutions": {
             "preview_xxs": {
                 "path": "assets/img/gallery/preview_xxs/toast_salad.webp",
