@@ -8,4 +8,10 @@ import { PhotoAlbumData } from './album-thumbnail/photo-album-data';
 })
 export class TravelComponent {
     photoAlbumData = PhotoAlbumData;
+
+    flexBorderSize = 10;
+    flexImageSize = 11;
+    maxRowsPerPage = 100;
+    viewerEnabled = false;
+    galleryName = 'travel';
 }

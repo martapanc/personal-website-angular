@@ -3,10 +3,14 @@
 
     <div>
         <div class="container px-3 px-lg-5">
-            <app-album-thumbnail
-                *ngFor="let photoAlbum of photoAlbumData"
-                [albumData]="photoAlbum"
-            ></app-album-thumbnail>
+            <gallery-ext
+                [galleryName]="galleryName"
+                [flexBorderSize]="flexBorderSize"
+                [flexImageSize]="flexImageSize"
+                [maxRowsPerPage]="maxRowsPerPage"
+                [viewerEnabled]="viewerEnabled"
+            >
+            </gallery-ext>
         </div>
     </div>
 
