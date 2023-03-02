@@ -1,8 +1,11 @@
 import { Component } from '@angular/core';
+import { PhotoAlbumData } from './album-thumbnail/photo-album-data';
 
 @Component({
     selector: 'app-travel',
     templateUrl: './travel.component.html',
-    styleUrls: ['./travel.component.scss'],
+    styleUrls: ['../home/home.component.scss'],
 })
-export class TravelComponent {}
+export class TravelComponent {
+    photoAlbumData = PhotoAlbumData;
+}

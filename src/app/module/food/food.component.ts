@@ -9,4 +9,6 @@ export class FoodComponent {
     flexBorderSize = 10;
     flexImageSize = 11;
     maxRowsPerPage = 100;
+    viewerEnabled = false;
+    galleryName = 'food';
 }

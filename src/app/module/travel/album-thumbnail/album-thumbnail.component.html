@@ -1,0 +1,23 @@
+<div class="col-md-4 col-sm-6 col-6 d-md-inline-block image-thumbnail">
+<!--    <a-->
+<!--        [href]="albumData.linkToAlbum"-->
+<!--        target="_blank"-->
+<!--        data-size="1600x1067"-->
+<!--        rel="noopener noreferrer"-->
+<!--    >-->
+        <img
+            [src]="albumData.src"
+            class="img-fluid thumbnail"
+            alt="Album"
+        />
+        <div class="image-thumbnail__text">
+            {{albumData.title}}
+            <img
+                class="responsive-hide"
+                [src]="albumData.flag"
+                alt="flag"
+                width="25"
+            />
+        </div>
+<!--    </a>-->
+</div>

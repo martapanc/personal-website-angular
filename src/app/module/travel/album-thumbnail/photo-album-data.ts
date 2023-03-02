@@ -1,0 +1,136 @@
+import { PhotoAlbum } from '../../../shared/models/PhotoAlbum';
+
+export const PhotoAlbumData: PhotoAlbum[] = [
+    {
+        title: 'Isle of Skye',
+        flag: 'gb-sct',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/portree.webp',
+        linkToAlbum: '',
+    },
+    {
+        title: 'Malta',
+        flag: 'mt',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/malta.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157713304244683',
+    },
+    {
+        title: 'Amsterdam',
+        flag: 'nl',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/amsterdam.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157713025220096',
+    },
+    {
+        title: 'Spain',
+        flag: 'es',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/barcelona.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711624973258',
+    },
+    {
+        title: 'Berlin',
+        flag: 'de',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/berlin.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711600776517',
+    },
+    {
+        title: 'Bratislava',
+        flag: 'sk',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/bratislava.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711610738666',
+    },
+    {
+        title: 'Iceland',
+        flag: 'is',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/iceland.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711600820401',
+    },
+    {
+        title: 'Edinburgh',
+        flag: 'scot',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/edinburgh.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157713025457677',
+    },
+    {
+        title: 'Vienna',
+        flag: 'at',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/vienna.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711612756003',
+    },
+    {
+        title: 'South Carolina',
+        flag: 'us',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/charleston.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711611503291',
+    },
+    {
+        title: 'Fuerteventura',
+        flag: 'es',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/fuerteventura.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711611624007',
+    },
+    {
+        title: 'Ireland',
+        flag: 'ie',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/ireland.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums',
+    },
+    {
+        title: 'Manchester',
+        flag: 'eng',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/jrl.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711600468561',
+    },
+    {
+        title: 'Lisbon',
+        flag: 'pt',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/lisbon.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/',
+    },
+    {
+        title: 'London',
+        flag: 'uk',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/london.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711609959892',
+    },
+    {
+        title: 'Madeira',
+        flag: 'pt',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/madeira.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711600727452',
+    },
+    {
+        title: 'New York',
+        flag: 'us',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/new-york.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/',
+    },
+    {
+        title: 'Oxford',
+        flag: 'eng',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/oxford.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711602308838',
+    },
+    {
+        title: 'San Francisco',
+        flag: 'us',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/san-francisco.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/',
+    },
+    {
+        title: 'Rome',
+        flag: 'it',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/rome.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/',
+    },
+    {
+        title: 'Shanghai',
+        flag: 'zh',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/shanghai.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/72157711613247653',
+    },
+    {
+        title: 'South Tyrol',
+        flag: 'it',
+        src: 'https://ik.imagekit.io/martapanc/travel/tr:w-500,f-auto/south-tyrol.webp',
+        linkToAlbum: 'https://www.flickr.com/photos/185365090@N08/albums/',
+    },
+];

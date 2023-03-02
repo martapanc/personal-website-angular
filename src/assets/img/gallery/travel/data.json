@@ -1,0 +1,862 @@
+[
+    {
+        "name": "jrl.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/jrl.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/jrl.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/jrl.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/jrl.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/jrl.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/jrl.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/jrl.webp",
+                "width": 6000,
+                "height": 4000
+            }
+        },
+        "dominantColor": "#3c3128"
+    },
+    {
+        "name": "charleston.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/charleston.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/charleston.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/charleston.webp",
+                "width": 1621,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/charleston.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/charleston.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/charleston.webp",
+                "width": 4322,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/charleston.webp",
+                "width": 1400,
+                "height": 933
+            }
+        },
+        "dominantColor": "#625d54"
+    },
+    {
+        "name": "vienna.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/vienna.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/vienna.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/vienna.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/vienna.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/vienna.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/vienna.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/vienna.webp",
+                "width": 6000,
+                "height": 4000
+            }
+        },
+        "dominantColor": "#93937e"
+    },
+    {
+        "name": "san-francisco.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/francisco.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto-francisco.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto-francisco.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/san-francisco.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/san-francisco.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/san-francisco.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/san-francisco.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#6c6b61"
+    },
+    {
+        "name": "iceland.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/iceland.webp",
+                "width": 562,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/iceland.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/iceland.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/iceland.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/iceland.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/iceland.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/iceland.webp",
+                "width": 5911,
+                "height": 3941
+            }
+        },
+        "dominantColor": "#616460"
+    },
+    {
+        "name": "oxford.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/oxford.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/oxford.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/oxford.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/oxford.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/oxford.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/oxford.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/oxford.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#767d77"
+    },
+    {
+        "name": "lisbon.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/lisbon.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/lisbon.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/lisbon.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/lisbon.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/lisbon.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/lisbon.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/lisbon.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#9da19f"
+    },
+    {
+        "name": "bratislava.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/bratislava.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/bratislava.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/bratislava.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/bratislava.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/bratislava.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/bratislava.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/bratislava.webp",
+                "width": 6000,
+                "height": 4000
+            }
+        },
+        "dominantColor": "#858a87"
+    },
+    {
+        "name": "edinburgh.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/edinburgh.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/edinburgh.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/edinburgh.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/edinburgh.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/edinburgh.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/edinburgh.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/edinburgh.webp",
+                "width": 3000,
+                "height": 2000
+            }
+        },
+        "dominantColor": "#5d6760"
+    },
+    {
+        "name": "london.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/london.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/london.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/london.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/london.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/london.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/london.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/london.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#3d444b"
+    },
+    {
+        "name": "berlin.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/berlin.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/berlin.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/berlin.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/berlin.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/berlin.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/berlin.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/berlin.webp",
+                "width": 2592,
+                "height": 1728
+            }
+        },
+        "dominantColor": "#2e436e"
+    },
+    {
+        "name": "fuerteventura.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/fuerteventura.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/fuerteventura.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/fuerteventura.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/fuerteventura.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/fuerteventura.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/fuerteventura.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/fuerteventura.webp",
+                "width": 3000,
+                "height": 2000
+            }
+        },
+        "dominantColor": "#576879"
+    },
+    {
+        "name": "barcelona.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/barcelona.webp",
+                "width": 562,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/barcelona.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/barcelona.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/barcelona.webp",
+                "width": 2399,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/barcelona.webp",
+                "width": 3239,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/barcelona.webp",
+                "width": 4319,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/barcelona.webp",
+                "width": 2008,
+                "height": 1339
+            }
+        },
+        "dominantColor": "#5d717e"
+    },
+    {
+        "name": "amsterdam.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/amsterdam.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/amsterdam.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/amsterdam.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/amsterdam.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/amsterdam.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/amsterdam.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/amsterdam.webp",
+                "width": 3000,
+                "height": 2000
+            }
+        },
+        "dominantColor": "#57708e"
+    },
+    {
+        "name": "rome.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/rome.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/rome.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/rome.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/rome.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/rome.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/rome.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/rome.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#71797b"
+    },
+    {
+        "name": "south-tyrol.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/south-tyrol.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/south-tyrol.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/south-tyrol.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/south-tyrol.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/south-tyrol.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/south-tyrol.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/south-tyrol.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#757d7e"
+    },
+    {
+        "name": "madeira.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/madeira.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/madeira.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/madeira.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/madeira.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/madeira.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/madeira.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/madeira.webp",
+                "width": 3000,
+                "height": 2000
+            }
+        },
+        "dominantColor": "#787d7f"
+    },
+    {
+        "name": "malta.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/malta.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/malta.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/malta.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/malta.webp",
+                "width": 2400,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/malta.webp",
+                "width": 3240,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/malta.webp",
+                "width": 4320,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/malta.webp",
+                "width": 3000,
+                "height": 2000
+            }
+        },
+        "dominantColor": "#6e8189"
+    },
+    {
+        "name": "portree.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/portree.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/portree.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/portree.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/portree.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/portree.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/portree.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/portree.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#6f818e"
+    },
+    {
+        "name": "new-york.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-563,f-auto/york.webp",
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto-york.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto-york.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/new-york.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/new-york.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/new-york.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/new-york.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#728899"
+    },
+    {
+        "name": "shanghai.webp",
+        "resolutions": {
+            "preview_xxs": {
+                "width": 563,
+                "height": 375
+            },
+            "preview_xs": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1152,f-auto/shanghai.webp",
+                "width": 1152,
+                "height": 768
+            },
+            "preview_s": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-1620,f-auto/shanghai.webp",
+                "width": 1620,
+                "height": 1080
+            },
+            "preview_m": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-2400,f-auto/shanghai.webp",
+                "width": 2401,
+                "height": 1600
+            },
+            "preview_l": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-3240,f-auto/shanghai.webp",
+                "width": 3241,
+                "height": 2160
+            },
+            "preview_xl": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-4320,f-auto/shanghai.webp",
+                "width": 4321,
+                "height": 2880
+            },
+            "raw": {
+                "path": "https://ik.imagekit.io/martapanc/travel/tr:w-6000,f-auto/shanghai.webp",
+                "width": 2000,
+                "height": 1333
+            }
+        },
+        "dominantColor": "#91a3b5"
+    }
+]

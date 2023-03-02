@@ -2480,10 +2480,10 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@martapanc/angular2-image-gallery@15.2.0":
-  version "15.2.0"
-  resolved "https://npm.pkg.github.com/download/@martapanc/angular2-image-gallery/15.2.0/3cbf1a2bf2006951cc671ba8f5278b45644493cc#3cbf1a2bf2006951cc671ba8f5278b45644493cc"
-  integrity sha512-bQMOIiN9xLDF8dGtDdDcbEOKoWMAD4LI2iZMOIosHAZvzciErXfMPFJiMwbbpB0CR1RKaF7qyF01g+oImPoTSQ==
+"@martapanc/angular2-image-gallery@15.2.4":
+  version "15.2.4"
+  resolved "https://npm.pkg.github.com/download/@martapanc/angular2-image-gallery/15.2.4/d6250ea07f537c276cd811c4d560be1db38fbdd8#d6250ea07f537c276cd811c4d560be1db38fbdd8"
+  integrity sha512-UsRYIWoBHS3Usbai2eSoqCIwW5APsPo7bZW2q0DfmtOwqRoQhKu5mk8FlyiIbIuA9BsuI/f9oa4w5aNo4bKeAQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -4202,6 +4202,13 @@ ajv@^6.10.0, ajv@^6.12.3, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.12.6:
     fast-json-stable-stringify "^2.0.0"
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
+
+angular2-image-gallery@^15.0.0:
+  version "15.0.0"
+  resolved "https://registry.yarnpkg.com/angular2-image-gallery/-/angular2-image-gallery-15.0.0.tgz#0b4d97a370628bccc758c455280df17c56d12afc"
+  integrity sha512-NmSpmmU4gNhI/nRsD5tq0lIJu+yKyYpocJJ3BJOgeAvMx2biegdrRIw84ZUYV7x0/VN29j/K2OkiSaTgAuT77g==
+  dependencies:
+    tslib "^2.3.0"
 
 ansi-align@^3.0.0:
   version "3.0.1"

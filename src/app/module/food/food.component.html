@@ -4,9 +4,12 @@
     <div>
         <div class="container px-3 px-lg-5">
             <gallery
+                [galleryName]="galleryName"
                 [flexBorderSize]="flexBorderSize"
                 [flexImageSize]="flexImageSize"
-                [maxRowsPerPage]="maxRowsPerPage">
+                [maxRowsPerPage]="maxRowsPerPage"
+                [viewerEnabled]="viewerEnabled"
+            >
             </gallery>
         </div>
     </div>

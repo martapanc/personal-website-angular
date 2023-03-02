@@ -29,6 +29,7 @@ import { CoolFactsComponent } from './module/home/sections/cool-facts/cool-facts
 import { ProjectCardComponent } from './module/projects/project-card/project-card.component';
 import { Angular2ImageGalleryModule } from '@martapanc/angular2-image-gallery';
 import { HammerModule } from '@angular/platform-browser';
+import { AlbumThumbnailComponent } from './module/travel/album-thumbnail/album-thumbnail.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
     return new TranslateHttpLoader(http);
@@ -70,6 +71,7 @@ export function HttpLoaderFactory(http: HttpClient) {
         BookComponent,
         CoolFactsComponent,
         ProjectCardComponent,
+        AlbumThumbnailComponent,
     ],
     providers: [],
     bootstrap: [AppComponent],

@@ -1,1 +1,14 @@
-<p>travel works!</p>
+<div class="single-page">
+    <app-header [title]='"Pictures from around the world"'></app-header>
+
+    <div>
+        <div class="container px-3 px-lg-5">
+            <app-album-thumbnail
+                *ngFor="let photoAlbum of photoAlbumData"
+                [albumData]="photoAlbum"
+            ></app-album-thumbnail>
+        </div>
+    </div>
+
+    <Section></Section>
+</div>

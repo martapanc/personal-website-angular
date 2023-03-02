@@ -4,37 +4,37 @@
         "alt": "Veg nigiri",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_xxs/sushi_6.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_xs/sushi_6.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_6.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_6.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_6.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/sushi_6.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_6.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/sushi_6.webp",
+                "path": "assets/img/gallery/food/raw/sushi_6.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -46,37 +46,37 @@
         "alt": "Mini cheesecakes 🇺🇸",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_xxs/cheesecakes.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_xs/cheesecakes.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_s/cheesecakes.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_s/cheesecakes.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_s/cheesecakes.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/cheesecakes.webp",
+                "path": "assets/img/gallery/food/preview_s/cheesecakes.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/cheesecakes.webp",
+                "path": "assets/img/gallery/food/raw/cheesecakes.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -88,37 +88,37 @@
         "alt": "Falafels 🧆",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/falafels.webp",
+                "path": "assets/img/gallery/food/preview_xxs/falafels.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/falafels.webp",
+                "path": "assets/img/gallery/food/preview_xs/falafels.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/falafels.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/falafels.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/falafels.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/falafels.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/falafels.webp",
+                "path": "assets/img/gallery/food/raw/falafels.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -130,37 +130,37 @@
         "alt": "Bruschette",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_xxs/bruschette.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_xs/bruschette.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_s/bruschette.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_s/bruschette.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_s/bruschette.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/bruschette.webp",
+                "path": "assets/img/gallery/food/preview_s/bruschette.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/bruschette.webp",
+                "path": "assets/img/gallery/food/raw/bruschette.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -172,37 +172,37 @@
         "alt": "More sushi 🍱",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_xxs/sushi_4.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_xs/sushi_4.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_4.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_4.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_4.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/sushi_4.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_4.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/sushi_4.webp",
+                "path": "assets/img/gallery/food/raw/sushi_4.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -214,37 +214,37 @@
         "alt": "Crumpets 🇬🇧",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_xxs/crumpets.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_xs/crumpets.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_s/crumpets.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_s/crumpets.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_s/crumpets.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/crumpets.webp",
+                "path": "assets/img/gallery/food/preview_s/crumpets.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/crumpets.webp",
+                "path": "assets/img/gallery/food/raw/crumpets.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -256,37 +256,37 @@
         "alt": "Beetroot dip",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_xxs/beetroot_dip.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_xs/beetroot_dip.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/beetroot_dip.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/beetroot_dip.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/beetroot_dip.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/beetroot_dip.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/beetroot_dip.webp",
+                "path": "assets/img/gallery/food/raw/beetroot_dip.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -298,37 +298,37 @@
         "alt": "Spring rolls 🇨🇳",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_xxs/spring_rolls.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_xs/spring_rolls.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_s/spring_rolls.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_s/spring_rolls.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_s/spring_rolls.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/spring_rolls.webp",
+                "path": "assets/img/gallery/food/preview_s/spring_rolls.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/spring_rolls.webp",
+                "path": "assets/img/gallery/food/raw/spring_rolls.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -340,37 +340,37 @@
         "alt": "Hot-dogs with fries and onions",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_xxs/hotdogs.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_xs/hotdogs.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_s/hotdogs.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_s/hotdogs.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_s/hotdogs.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/hotdogs.webp",
+                "path": "assets/img/gallery/food/preview_s/hotdogs.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/hotdogs.webp",
+                "path": "assets/img/gallery/food/raw/hotdogs.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -382,37 +382,37 @@
         "alt": "Tartiflette (dish from Savoy with lots of potatoes and cheese)",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_xxs/tartiflette.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_xs/tartiflette.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_s/tartiflette.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_s/tartiflette.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_s/tartiflette.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/tartiflette.webp",
+                "path": "assets/img/gallery/food/preview_s/tartiflette.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/tartiflette.webp",
+                "path": "assets/img/gallery/food/raw/tartiflette.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -425,37 +425,37 @@
         "date": "2022:04:19 20:32:58",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_xxs/curry_rice.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_xs/curry_rice.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_s/curry_rice.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_s/curry_rice.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_s/curry_rice.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/curry_rice.webp",
+                "path": "assets/img/gallery/food/preview_s/curry_rice.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/curry_rice.webp",
+                "path": "assets/img/gallery/food/raw/curry_rice.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -467,37 +467,37 @@
         "alt": "Falafels in a tomato and egg sauce",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/falafels_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/falafels_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/falafels_2.webp",
+                "path": "assets/img/gallery/food/preview_s/falafels_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/falafels_2.webp",
+                "path": "assets/img/gallery/food/raw/falafels_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -509,37 +509,37 @@
         "alt": "New baguette attempt",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_xxs/baguette_3.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_xs/baguette_3.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_3.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_3.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_3.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/baguette_3.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_3.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/baguette_3.webp",
+                "path": "assets/img/gallery/food/raw/baguette_3.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -551,37 +551,37 @@
         "alt": "Raclette 🧀 🇫🇷",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/raclette.webp",
+                "path": "assets/img/gallery/food/preview_xxs/raclette.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/raclette.webp",
+                "path": "assets/img/gallery/food/preview_xs/raclette.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/raclette.webp",
+                "path": "assets/img/gallery/food/preview_s/raclette.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/raclette.webp",
+                "path": "assets/img/gallery/food/preview_s/raclette.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/raclette.webp",
+                "path": "assets/img/gallery/food/preview_s/raclette.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/raclette.webp",
+                "path": "assets/img/gallery/food/preview_s/raclette.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/raclette.webp",
+                "path": "assets/img/gallery/food/raw/raclette.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -593,37 +593,37 @@
         "alt": "Crozets (flat square-shaped pasta from the Savoy region)",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/crozets.webp",
+                "path": "assets/img/gallery/food/preview_xxs/crozets.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/crozets.webp",
+                "path": "assets/img/gallery/food/preview_xs/crozets.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/crozets.webp",
+                "path": "assets/img/gallery/food/preview_s/crozets.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/crozets.webp",
+                "path": "assets/img/gallery/food/preview_s/crozets.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/crozets.webp",
+                "path": "assets/img/gallery/food/preview_s/crozets.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/crozets.webp",
+                "path": "assets/img/gallery/food/preview_s/crozets.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/crozets.webp",
+                "path": "assets/img/gallery/food/raw/crozets.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -635,37 +635,37 @@
         "alt": "Bicolor Pizza",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_xxs/bicolor_pizza.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_xs/bicolor_pizza.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_s/bicolor_pizza.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_s/bicolor_pizza.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_s/bicolor_pizza.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/preview_s/bicolor_pizza.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/bicolor_pizza.webp",
+                "path": "assets/img/gallery/food/raw/bicolor_pizza.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -677,37 +677,37 @@
         "alt": "Shaped pasta",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pasta_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/pasta_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pasta_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pasta_2.webp",
+                "path": "assets/img/gallery/food/raw/pasta_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -719,37 +719,37 @@
         "alt": "Spätzle 🇦🇹",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_xxs/spaetzle.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_xs/spaetzle.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_s/spaetzle.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_s/spaetzle.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_s/spaetzle.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/spaetzle.webp",
+                "path": "assets/img/gallery/food/preview_s/spaetzle.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/spaetzle.webp",
+                "path": "assets/img/gallery/food/raw/spaetzle.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -761,37 +761,37 @@
         "alt": "Gnocco fritto 🇮🇹",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_xxs/gnocco_fritto.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_xs/gnocco_fritto.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocco_fritto.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocco_fritto.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocco_fritto.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocco_fritto.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/gnocco_fritto.webp",
+                "path": "assets/img/gallery/food/raw/gnocco_fritto.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -803,37 +803,37 @@
         "alt": "(attempt at) Nachos 🇲🇽",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/nachos.webp",
+                "path": "assets/img/gallery/food/preview_xxs/nachos.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/nachos.webp",
+                "path": "assets/img/gallery/food/preview_xs/nachos.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/nachos.webp",
+                "path": "assets/img/gallery/food/preview_s/nachos.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/nachos.webp",
+                "path": "assets/img/gallery/food/preview_s/nachos.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/nachos.webp",
+                "path": "assets/img/gallery/food/preview_s/nachos.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/nachos.webp",
+                "path": "assets/img/gallery/food/preview_s/nachos.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/nachos.webp",
+                "path": "assets/img/gallery/food/raw/nachos.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -845,37 +845,37 @@
         "alt": "Mozzarella in carrozza",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_xxs/mozzarella_in_carrozza.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_xs/mozzarella_in_carrozza.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/mozzarella_in_carrozza.webp",
+                "path": "assets/img/gallery/food/raw/mozzarella_in_carrozza.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -887,37 +887,37 @@
         "alt": "Calzone 🍕",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/calzone.webp",
+                "path": "assets/img/gallery/food/preview_xxs/calzone.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/calzone.webp",
+                "path": "assets/img/gallery/food/preview_xs/calzone.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/calzone.webp",
+                "path": "assets/img/gallery/food/preview_s/calzone.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/calzone.webp",
+                "path": "assets/img/gallery/food/preview_s/calzone.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/calzone.webp",
+                "path": "assets/img/gallery/food/preview_s/calzone.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/calzone.webp",
+                "path": "assets/img/gallery/food/preview_s/calzone.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/calzone.webp",
+                "path": "assets/img/gallery/food/raw/calzone.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -929,37 +929,37 @@
         "alt": "Piadine with cheese and rocket",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/piadine.webp",
+                "path": "assets/img/gallery/food/preview_xxs/piadine.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/piadine.webp",
+                "path": "assets/img/gallery/food/preview_xs/piadine.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/piadine.webp",
+                "path": "assets/img/gallery/food/preview_s/piadine.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/piadine.webp",
+                "path": "assets/img/gallery/food/preview_s/piadine.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/piadine.webp",
+                "path": "assets/img/gallery/food/preview_s/piadine.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/piadine.webp",
+                "path": "assets/img/gallery/food/preview_s/piadine.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/piadine.webp",
+                "path": "assets/img/gallery/food/raw/piadine.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -971,37 +971,37 @@
         "alt": "Sushi 🍣",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_xxs/sushi_5.webp",
                 "width": 375,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_xs/sushi_5.webp",
                 "width": 768,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_5.webp",
                 "width": 1080,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_5.webp",
                 "width": 1600,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_5.webp",
                 "width": 2160,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/sushi_5.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_5.webp",
                 "width": 2880,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/sushi_5.webp",
+                "path": "assets/img/gallery/food/raw/sushi_5.webp",
                 "width": 1280,
                 "height": 1280
             }
@@ -1014,37 +1014,37 @@
         "date": "2022:04:18 20:24:40",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/wraps.webp",
+                "path": "assets/img/gallery/food/preview_xxs/wraps.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/wraps.webp",
+                "path": "assets/img/gallery/food/preview_xs/wraps.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/wraps.webp",
+                "path": "assets/img/gallery/food/preview_s/wraps.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/wraps.webp",
+                "path": "assets/img/gallery/food/preview_s/wraps.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/wraps.webp",
+                "path": "assets/img/gallery/food/preview_s/wraps.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/wraps.webp",
+                "path": "assets/img/gallery/food/preview_s/wraps.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/wraps.webp",
+                "path": "assets/img/gallery/food/raw/wraps.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -1056,37 +1056,37 @@
         "alt": "Cheese dip 🧀",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_xxs/cheese_dip.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_xs/cheese_dip.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/cheese_dip.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/cheese_dip.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/cheese_dip.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/cheese_dip.webp",
+                "path": "assets/img/gallery/food/preview_s/cheese_dip.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/cheese_dip.webp",
+                "path": "assets/img/gallery/food/raw/cheese_dip.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -1098,37 +1098,37 @@
         "alt": "Flammekueche 🇫🇷 (culturally appropriated pizza from Alsace)",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_xxs/flammenkuche.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_xs/flammenkuche.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkuche.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkuche.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkuche.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/flammenkuche.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkuche.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/flammenkuche.webp",
+                "path": "assets/img/gallery/food/raw/flammenkuche.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1140,37 +1140,37 @@
         "alt": "Burgers with homemade fries and onion rings",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/burgers.webp",
+                "path": "assets/img/gallery/food/preview_xxs/burgers.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/burgers.webp",
+                "path": "assets/img/gallery/food/preview_xs/burgers.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/burgers.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/burgers.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/burgers.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/burgers.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/burgers.webp",
+                "path": "assets/img/gallery/food/raw/burgers.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1182,37 +1182,37 @@
         "alt": "Baked courgettes",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_xxs/zucchini.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_xs/zucchini.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_s/zucchini.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_s/zucchini.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_s/zucchini.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/zucchini.webp",
+                "path": "assets/img/gallery/food/preview_s/zucchini.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/zucchini.webp",
+                "path": "assets/img/gallery/food/raw/zucchini.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1224,37 +1224,37 @@
         "alt": "Garlic bread",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_xxs/garlic_bread.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_xs/garlic_bread.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_s/garlic_bread.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_s/garlic_bread.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_s/garlic_bread.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/garlic_bread.webp",
+                "path": "assets/img/gallery/food/preview_s/garlic_bread.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/garlic_bread.webp",
+                "path": "assets/img/gallery/food/raw/garlic_bread.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1266,37 +1266,37 @@
         "alt": "Quiche 🇫🇷",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/quiche.webp",
+                "path": "assets/img/gallery/food/preview_xxs/quiche.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/quiche.webp",
+                "path": "assets/img/gallery/food/preview_xs/quiche.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/quiche.webp",
+                "path": "assets/img/gallery/food/preview_s/quiche.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/quiche.webp",
+                "path": "assets/img/gallery/food/preview_s/quiche.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/quiche.webp",
+                "path": "assets/img/gallery/food/preview_s/quiche.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/quiche.webp",
+                "path": "assets/img/gallery/food/preview_s/quiche.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/quiche.webp",
+                "path": "assets/img/gallery/food/raw/quiche.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1308,37 +1308,37 @@
         "alt": "Garlic flatbread with spices",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_xxs/flatbread.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_xs/flatbread.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/flatbread.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/flatbread.webp",
+                "path": "assets/img/gallery/food/raw/flatbread.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1350,37 +1350,37 @@
         "alt": "Burgers and breaded mozzarella balls",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/burger_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/burger_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/burger_2.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/burger_2.webp",
+                "path": "assets/img/gallery/food/raw/burger_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1392,37 +1392,37 @@
         "alt": "Apfelstrüdel 🇩🇪",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/strudel.webp",
+                "path": "assets/img/gallery/food/preview_xxs/strudel.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/strudel.webp",
+                "path": "assets/img/gallery/food/preview_xs/strudel.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/strudel.webp",
+                "path": "assets/img/gallery/food/preview_s/strudel.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/strudel.webp",
+                "path": "assets/img/gallery/food/preview_s/strudel.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/strudel.webp",
+                "path": "assets/img/gallery/food/preview_s/strudel.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/strudel.webp",
+                "path": "assets/img/gallery/food/preview_s/strudel.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/strudel.webp",
+                "path": "assets/img/gallery/food/raw/strudel.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1434,37 +1434,37 @@
         "alt": "Fluffy pancakes 🥞",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pancakes.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_xs/pancakes.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pancakes.webp",
+                "path": "assets/img/gallery/food/raw/pancakes.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1476,37 +1476,37 @@
         "alt": "Arancini siciliani",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/arancini.webp",
+                "path": "assets/img/gallery/food/preview_xxs/arancini.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/arancini.webp",
+                "path": "assets/img/gallery/food/preview_xs/arancini.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/arancini.webp",
+                "path": "assets/img/gallery/food/preview_s/arancini.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/arancini.webp",
+                "path": "assets/img/gallery/food/preview_s/arancini.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/arancini.webp",
+                "path": "assets/img/gallery/food/preview_s/arancini.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/arancini.webp",
+                "path": "assets/img/gallery/food/preview_s/arancini.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/arancini.webp",
+                "path": "assets/img/gallery/food/raw/arancini.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1518,37 +1518,37 @@
         "alt": "Pizza 🍕",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pizza_1.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_xs/pizza_1.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_1.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_1.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_1.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pizza_1.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_1.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pizza_1.webp",
+                "path": "assets/img/gallery/food/raw/pizza_1.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1560,37 +1560,37 @@
         "alt": "Gyros with homemade fries",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/gyros.webp",
+                "path": "assets/img/gallery/food/preview_xxs/gyros.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/gyros.webp",
+                "path": "assets/img/gallery/food/preview_xs/gyros.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/gyros.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/gyros.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/gyros.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/gyros.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/gyros.webp",
+                "path": "assets/img/gallery/food/raw/gyros.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1602,37 +1602,37 @@
         "alt": "Pandoro 🇮🇹",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pandoro.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_xs/pandoro.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_s/pandoro.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_s/pandoro.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_s/pandoro.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pandoro.webp",
+                "path": "assets/img/gallery/food/preview_s/pandoro.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pandoro.webp",
+                "path": "assets/img/gallery/food/raw/pandoro.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -1644,37 +1644,37 @@
         "alt": "Gyros 🇬🇷",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/gyros_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/gyros_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/gyros_2.webp",
+                "path": "assets/img/gallery/food/preview_s/gyros_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/gyros_2.webp",
+                "path": "assets/img/gallery/food/raw/gyros_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1686,37 +1686,37 @@
         "alt": "Pizza #4",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pizza_4.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_xs/pizza_4.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_4.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_4.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_4.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pizza_4.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_4.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pizza_4.webp",
+                "path": "assets/img/gallery/food/raw/pizza_4.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1728,37 +1728,37 @@
         "alt": "Pancakes with strawberries 🥞 🍓",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pancakes_strawberry.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_xs/pancakes_strawberry.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes_strawberry.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes_strawberry.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes_strawberry.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/preview_s/pancakes_strawberry.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pancakes_strawberry.webp",
+                "path": "assets/img/gallery/food/raw/pancakes_strawberry.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1770,37 +1770,37 @@
         "alt": "Pizza #3",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pizza_3.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_xs/pizza_3.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_3.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_3.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_3.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pizza_3.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_3.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pizza_3.webp",
+                "path": "assets/img/gallery/food/raw/pizza_3.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1812,37 +1812,37 @@
         "alt": "Flatbread with fries",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_xxs/flatbread_fries.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_xs/flatbread_fries.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread_fries.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread_fries.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread_fries.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/preview_s/flatbread_fries.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/flatbread_fries.webp",
+                "path": "assets/img/gallery/food/raw/flatbread_fries.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -1854,37 +1854,37 @@
         "alt": "Burgers with mozzarella sticks and fried onions",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_xxs/burgers_3.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_xs/burgers_3.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers_3.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers_3.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers_3.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/burgers_3.webp",
+                "path": "assets/img/gallery/food/preview_s/burgers_3.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/burgers_3.webp",
+                "path": "assets/img/gallery/food/raw/burgers_3.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1897,37 +1897,37 @@
         "date": "2022:08:16 21:19:58",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/couscous.webp",
+                "path": "assets/img/gallery/food/preview_xxs/couscous.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/couscous.webp",
+                "path": "assets/img/gallery/food/preview_xs/couscous.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/couscous.webp",
+                "path": "assets/img/gallery/food/preview_s/couscous.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/couscous.webp",
+                "path": "assets/img/gallery/food/preview_s/couscous.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/couscous.webp",
+                "path": "assets/img/gallery/food/preview_s/couscous.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/couscous.webp",
+                "path": "assets/img/gallery/food/preview_s/couscous.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/couscous.webp",
+                "path": "assets/img/gallery/food/raw/couscous.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -1939,37 +1939,37 @@
         "alt": "Fried halloumi, puff pastry rolls and salad 🇨🇾",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_xxs/halloumi.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_xs/halloumi.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_s/halloumi.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_s/halloumi.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_s/halloumi.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/halloumi.webp",
+                "path": "assets/img/gallery/food/preview_s/halloumi.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/halloumi.webp",
+                "path": "assets/img/gallery/food/raw/halloumi.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -1981,37 +1981,37 @@
         "alt": "Homemade tagliatelle",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_xxs/tagliatelle.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_xs/tagliatelle.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_s/tagliatelle.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_s/tagliatelle.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_s/tagliatelle.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/tagliatelle.webp",
+                "path": "assets/img/gallery/food/preview_s/tagliatelle.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/tagliatelle.webp",
+                "path": "assets/img/gallery/food/raw/tagliatelle.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2023,37 +2023,37 @@
         "alt": "Baguette pieces for cheese fondue",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/baguette_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/baguette_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/baguette_2.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/baguette_2.webp",
+                "path": "assets/img/gallery/food/raw/baguette_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2065,37 +2065,37 @@
         "alt": "Pasta bake",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pasta_bake.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_xs/pasta_bake.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_bake.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_bake.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_bake.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pasta_bake.webp",
+                "path": "assets/img/gallery/food/preview_s/pasta_bake.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pasta_bake.webp",
+                "path": "assets/img/gallery/food/raw/pasta_bake.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2107,37 +2107,37 @@
         "alt": "Flammekueche #2",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/flammenkueche_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/flammenkueche_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkueche_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkueche_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkueche_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/preview_s/flammenkueche_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/flammenkueche_2.webp",
+                "path": "assets/img/gallery/food/raw/flammenkueche_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2149,37 +2149,37 @@
         "alt": "Cheese-filled potato croissants 😋",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_xxs/potato_croissants.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_xs/potato_croissants.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_s/potato_croissants.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_s/potato_croissants.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_s/potato_croissants.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/potato_croissants.webp",
+                "path": "assets/img/gallery/food/preview_s/potato_croissants.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/potato_croissants.webp",
+                "path": "assets/img/gallery/food/raw/potato_croissants.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2192,37 +2192,37 @@
         "date": "2022:05:06 20:57:10",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_xxs/sushi_1.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_xs/sushi_1.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_1.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_1.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_1.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/sushi_1.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_1.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/sushi_1.webp",
+                "path": "assets/img/gallery/food/raw/sushi_1.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2234,37 +2234,37 @@
         "alt": "Veg nigiri",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_xxs/sushi_3.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_xs/sushi_3.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_3.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_3.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_3.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/sushi_3.webp",
+                "path": "assets/img/gallery/food/preview_s/sushi_3.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/sushi_3.webp",
+                "path": "assets/img/gallery/food/raw/sushi_3.webp",
                 "width": 960,
                 "height": 1280
             }
@@ -2276,37 +2276,37 @@
         "alt": "More pasta bake",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pastabake_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/pastabake_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pastabake_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pastabake_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pastabake_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pastabake_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pastabake_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pastabake_2.webp",
+                "path": "assets/img/gallery/food/raw/pastabake_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2319,37 +2319,37 @@
         "date": "2022:05:06 20:56:37",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_xxs/nigiri.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_xs/nigiri.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_s/nigiri.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_s/nigiri.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_s/nigiri.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/nigiri.webp",
+                "path": "assets/img/gallery/food/preview_s/nigiri.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/nigiri.webp",
+                "path": "assets/img/gallery/food/raw/nigiri.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2361,37 +2361,37 @@
         "alt": "Pierogi 🇵🇱",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pierogi.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_xs/pierogi.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pierogi.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pierogi.webp",
+                "path": "assets/img/gallery/food/raw/pierogi.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2403,37 +2403,37 @@
         "alt": "Nut tart",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_xxs/nut_tarte.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_xs/nut_tarte.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_s/nut_tarte.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_s/nut_tarte.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_s/nut_tarte.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/nut_tarte.webp",
+                "path": "assets/img/gallery/food/preview_s/nut_tarte.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/nut_tarte.webp",
+                "path": "assets/img/gallery/food/raw/nut_tarte.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2445,37 +2445,37 @@
         "alt": "Focaccia (flatbread)",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_xxs/focaccia.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_xs/focaccia.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_s/focaccia.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_s/focaccia.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_s/focaccia.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/focaccia.webp",
+                "path": "assets/img/gallery/food/preview_s/focaccia.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/focaccia.webp",
+                "path": "assets/img/gallery/food/raw/focaccia.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2487,37 +2487,37 @@
         "alt": "Veg soup",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_xxs/veg_soup.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_xs/veg_soup.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_s/veg_soup.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_s/veg_soup.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_s/veg_soup.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/veg_soup.webp",
+                "path": "assets/img/gallery/food/preview_s/veg_soup.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/veg_soup.webp",
+                "path": "assets/img/gallery/food/raw/veg_soup.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2530,37 +2530,37 @@
         "date": "2022:08:21 23:12:43",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_xxs/farfalle.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_xs/farfalle.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_s/farfalle.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_s/farfalle.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_s/farfalle.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/farfalle.webp",
+                "path": "assets/img/gallery/food/preview_s/farfalle.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/farfalle.webp",
+                "path": "assets/img/gallery/food/raw/farfalle.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2572,37 +2572,37 @@
         "alt": "Pizza #2",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pizza_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/pizza_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pizza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pizza_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pizza_2.webp",
+                "path": "assets/img/gallery/food/raw/pizza_2.webp",
                 "width": 1132,
                 "height": 849
             }
@@ -2614,37 +2614,37 @@
         "alt": "Pierogi #2",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/pierogi_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/pierogi_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/pierogi_2.webp",
+                "path": "assets/img/gallery/food/preview_s/pierogi_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/pierogi_2.webp",
+                "path": "assets/img/gallery/food/raw/pierogi_2.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2656,37 +2656,37 @@
         "alt": "Tortelli",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_xxs/tortelli.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_xs/tortelli.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_s/tortelli.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_s/tortelli.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_s/tortelli.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/tortelli.webp",
+                "path": "assets/img/gallery/food/preview_s/tortelli.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/tortelli.webp",
+                "path": "assets/img/gallery/food/raw/tortelli.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2698,37 +2698,37 @@
         "alt": "Ginger biscuits with sugar paste decorations",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_xxs/biscuits.webp",
                 "width": 451,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_xs/biscuits.webp",
                 "width": 923,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_s/biscuits.webp",
                 "width": 1298,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_s/biscuits.webp",
                 "width": 1923,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_s/biscuits.webp",
                 "width": 2597,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/biscuits.webp",
+                "path": "assets/img/gallery/food/preview_s/biscuits.webp",
                 "width": 3462,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/biscuits.webp",
+                "path": "assets/img/gallery/food/raw/biscuits.webp",
                 "width": 1154,
                 "height": 960
             }
@@ -2740,37 +2740,37 @@
         "alt": "Croque monsieur #2",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/croque_monsieur_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/croque_monsieur_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/croque_monsieur_2.webp",
+                "path": "assets/img/gallery/food/raw/croque_monsieur_2.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2782,37 +2782,37 @@
         "alt": "Halloumi burger with salad",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_xxs/burger_salad.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_xs/burger_salad.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_salad.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_salad.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_salad.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/burger_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/burger_salad.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/burger_salad.webp",
+                "path": "assets/img/gallery/food/raw/burger_salad.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2824,37 +2824,37 @@
         "alt": "Bliny 🇷🇺",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/bliny.webp",
+                "path": "assets/img/gallery/food/preview_xxs/bliny.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/bliny.webp",
+                "path": "assets/img/gallery/food/preview_xs/bliny.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/bliny.webp",
+                "path": "assets/img/gallery/food/preview_s/bliny.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/bliny.webp",
+                "path": "assets/img/gallery/food/preview_s/bliny.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/bliny.webp",
+                "path": "assets/img/gallery/food/preview_s/bliny.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/bliny.webp",
+                "path": "assets/img/gallery/food/preview_s/bliny.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/bliny.webp",
+                "path": "assets/img/gallery/food/raw/bliny.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2867,37 +2867,37 @@
         "date": "2022:03:31 20:32:58",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_xxs/mozzarella_in_carrozza_2.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_xs/mozzarella_in_carrozza_2.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza_2.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza_2.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza_2.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/preview_s/mozzarella_in_carrozza_2.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/mozzarella_in_carrozza_2.webp",
+                "path": "assets/img/gallery/food/raw/mozzarella_in_carrozza_2.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -2909,37 +2909,37 @@
         "alt": "Homemade baguettes 🥖",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_xxs/baguette_1.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_xs/baguette_1.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_1.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_1.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_1.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/baguette_1.webp",
+                "path": "assets/img/gallery/food/preview_s/baguette_1.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/baguette_1.webp",
+                "path": "assets/img/gallery/food/raw/baguette_1.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -2951,37 +2951,37 @@
         "alt": "French pancakes 🇫🇷",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_xxs/french_pancakes.webp",
                 "width": 393,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_xs/french_pancakes.webp",
                 "width": 806,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/french_pancakes.webp",
                 "width": 1133,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/french_pancakes.webp",
                 "width": 1679,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/french_pancakes.webp",
                 "width": 2266,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/french_pancakes.webp",
+                "path": "assets/img/gallery/food/preview_s/french_pancakes.webp",
                 "width": 3022,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/french_pancakes.webp",
+                "path": "assets/img/gallery/food/raw/french_pancakes.webp",
                 "width": 960,
                 "height": 915
             }
@@ -2993,37 +2993,37 @@
         "alt": "Potato gnocchi",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_xxs/gnocchi.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_xs/gnocchi.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocchi.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocchi.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocchi.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/gnocchi.webp",
+                "path": "assets/img/gallery/food/preview_s/gnocchi.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/gnocchi.webp",
+                "path": "assets/img/gallery/food/raw/gnocchi.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -3035,37 +3035,37 @@
         "alt": "Ravioles du Dauphiné",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_xxs/raviolini.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_xs/raviolini.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_s/raviolini.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_s/raviolini.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_s/raviolini.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/raviolini.webp",
+                "path": "assets/img/gallery/food/preview_s/raviolini.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/raviolini.webp",
+                "path": "assets/img/gallery/food/raw/raviolini.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -3077,37 +3077,37 @@
         "alt": "Cappelletti 😍",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_xxs/cappelletti.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_xs/cappelletti.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_s/cappelletti.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_s/cappelletti.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_s/cappelletti.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/cappelletti.webp",
+                "path": "assets/img/gallery/food/preview_s/cappelletti.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/cappelletti.webp",
+                "path": "assets/img/gallery/food/raw/cappelletti.webp",
                 "width": 768,
                 "height": 1024
             }
@@ -3119,37 +3119,37 @@
         "alt": "Risotto with red chicory and gorgonzola",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/risotto.webp",
+                "path": "assets/img/gallery/food/preview_xxs/risotto.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/risotto.webp",
+                "path": "assets/img/gallery/food/preview_xs/risotto.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/risotto.webp",
+                "path": "assets/img/gallery/food/preview_s/risotto.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/risotto.webp",
+                "path": "assets/img/gallery/food/preview_s/risotto.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/risotto.webp",
+                "path": "assets/img/gallery/food/preview_s/risotto.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/risotto.webp",
+                "path": "assets/img/gallery/food/preview_s/risotto.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/risotto.webp",
+                "path": "assets/img/gallery/food/raw/risotto.webp",
                 "width": 1280,
                 "height": 960
             }
@@ -3161,37 +3161,37 @@
         "alt": "Croque monsieur 🇫🇷",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_xxs/croque_monsieur.webp",
                 "width": 500,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_xs/croque_monsieur.webp",
                 "width": 1024,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur.webp",
                 "width": 1440,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur.webp",
                 "width": 2133,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur.webp",
                 "width": 2880,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/preview_s/croque_monsieur.webp",
                 "width": 3840,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/croque_monsieur.webp",
+                "path": "assets/img/gallery/food/raw/croque_monsieur.webp",
                 "width": 4032,
                 "height": 3024
             }
@@ -3203,37 +3203,37 @@
         "alt": "Sandwiches + salad",
         "resolutions": {
             "preview_xxs": {
-                "path": "assets/img/gallery/preview_xxs/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_xxs/toast_salad.webp",
                 "width": 281,
                 "height": 375
             },
             "preview_xs": {
-                "path": "assets/img/gallery/preview_xs/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_xs/toast_salad.webp",
                 "width": 576,
                 "height": 768
             },
             "preview_s": {
-                "path": "assets/img/gallery/preview_s/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/toast_salad.webp",
                 "width": 810,
                 "height": 1080
             },
             "preview_m": {
-                "path": "assets/img/gallery/preview_s/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/toast_salad.webp",
                 "width": 1200,
                 "height": 1600
             },
             "preview_l": {
-                "path": "assets/img/gallery/preview_s/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/toast_salad.webp",
                 "width": 1620,
                 "height": 2160
             },
             "preview_xl": {
-                "path": "assets/img/gallery/preview_s/toast_salad.webp",
+                "path": "assets/img/gallery/food/preview_s/toast_salad.webp",
                 "width": 2160,
                 "height": 2880
             },
             "raw": {
-                "path": "assets/img/gallery/raw/toast_salad.webp",
+                "path": "assets/img/gallery/food/raw/toast_salad.webp",
                 "width": 960,
                 "height": 1280
             }
